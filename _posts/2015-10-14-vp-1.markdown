@@ -6,6 +6,8 @@ teacher: Kate Baylay
 unit: '1-1'
 ---
 
+!(illustration)[http://www.katebaylay.com/img/ill-med/19.jpg]
+
 be around other artists work
 see as much work as you can
 the age of enchantment exhibition #
