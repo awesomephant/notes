@@ -1,0 +1,70 @@
+.site-title {
+  color: $black;
+  text-decoration: none;
+}
+.site-header {
+  padding: 2rem;
+  background: rgb(240,240,240);
+}
+.posts {
+  list-style: none;
+  padding: 2rem;
+}
+
+.post {
+  margin-bottom: 2rem;
+}
+
+.post-link {
+  margin-bottom: 1rem;
+  color: $black;
+}
+
+.post-container {
+  display: flex;
+  padding: 2rem;
+
+  a {
+    color: gray;
+  }
+}
+
+.post-abstract {
+  font-size: 1.5rem;
+  padding-top: 1rem;
+  max-width: 40em;
+  line-height: 1.5;
+}
+
+.post-meta {
+  display: block;
+  flex-basis: 20%;
+  padding: 1rem;
+  li {
+    display: block;
+    padding: .5rem 0;
+    border-bottom: 1px solid $lightgray;
+  }
+}
+
+.post-header {
+  padding: 2rem;
+  border-bottom: 1px solid rgb(220,220,220);
+}
+
+.post-content {
+  max-width: 45rem;
+  line-height: 1.55;
+  p, ol, ul {
+    margin-bottom: 1rem;
+  }
+
+  ul, ol {
+    margin-left: 1rem;
+  }
+}
+
+img, iframe {
+  display: block;
+  max-width: 100%;
+}
