@@ -12,7 +12,9 @@ layout: default
     <li>{{ page.date | date: "%b %-d, %Y" }}</li>
     <li>{{ page.teacher }}</li>
     <li>Unit {{ page.unit }}</li>
-    <li><a href="{{ page.presentation }}">Presentation</a></li>
+    {% if page.presentation %}
+      <li><a href="{{ page.presentation }}">Presentation</a></li>
+     {% endif %}
 </ul>
 
   <article class="post-content">
