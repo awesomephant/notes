@@ -27,10 +27,7 @@ abstract: 'Kate is a London-based freelance Illustrator who produces work for bo
 - If people like your work they will pass it along. People love giving recommendations
 - Get your work to a level where you are confident enough to sell it
 
-phillip pullman his dark materials
-
 ##Book Commissions
-
 - You get the total number of illustrations you'll have to do
 - Read the book and figure out where your illustrations might go
 - Send the publisher a list of page numbers, get feedback on that
@@ -61,4 +58,4 @@ Different publishers have different policies, but you usually get 33% up front w
 Mostly just Google images. Don't spend too much time looking at one image though, just use them as reference to get things like architecture correct.
 
 ###Do you maintain links with other illustrators?
-Not as much in the general industry, but I do keep in touch with people from my course. However, people in the industru are generallt happy to help if you have questions.
+Not as much in the general industry, but I do keep in touch with people from my course. However, people in the industry are generally happy to help if you have questions.
