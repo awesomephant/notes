@@ -68,3 +68,18 @@ img, iframe {
   display: block;
   max-width: 100%;
 }
+
+.site-footer {
+  padding-bottom: 3rem;
+  font-size: .8rem;
+  color: gray;
+  text-align: center;
+  p {
+    margin-bottom: .5rem;
+  }
+
+  a {
+    color: gray;
+    text-decoration: underline;
+  }
+}
