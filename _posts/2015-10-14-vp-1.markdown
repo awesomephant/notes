@@ -18,7 +18,7 @@ abstract: 'Kate is a London-based freelance Illustrator who produces work for bo
 ###Places I got inspiration from
 - [The Age of Enchantment Exhibition](http://www.telegraph.co.uk/culture/donotmigrate/3669550/The-Age-of-Enchantment-dark-delights.html)
 - [Harry Clarke](https://en.wikipedia.org/wiki/Harry_Clarke)
-
+- [Walter Crane](https://en.wikipedia.org/wiki/Walter_Crane)
 
 ##How to get commissions
 - Be in the right place at the right time
