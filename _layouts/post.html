@@ -14,7 +14,10 @@ layout: default
     <li>Unit {{ page.unit }}</li>
     {% if page.presentation %}
       <li><a href="{{ page.presentation }}">Presentation</a></li>
-     {% endif %}
+    {% endif %}
+    {% if page.website %}
+      <li><a href="{{ page.website }}">Website</a></li>
+    {% endif %}
 </ul>
 
   <article class="post-content">
