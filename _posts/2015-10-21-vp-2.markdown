@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "Colophon Type Foundry"
+date:   2015-10-21 10:45:00
+teacher: Colophon Type Foundry
+unit: 'VP'
+abstract: ''
+website: 'http://www.colophon-foundry.org/'
+---
+
+edd harrington
+anthony sheret
+
+##colophon
+the entente design studio
+colophon foundry
+network of different people and studios with different skills
+
+tasks are split, wider skillset for more monies
+
+bespoke typefaces for big and small organisations
+
+##control until release
+
+##commissions as a testing ground
+custom tools, software cms, typefaces
+
+##Outside In
+![font](https://lh3.googleusercontent.com/3Mdy1J72VkVEfywiMAPFatfVBvZ7vi2zkiXrncxTwVyMg3wWTAytUXQW9fEAlu8zmXJFBOvlo0DzELPYtHNwXvW8OSi_5pGWFkLNV3bMFwP5dxV5itmfTAUthqLdHQQRCET_uhS6pvQHDbNm5ecKT_Qy8Q7EDN5wKUcKp5Ezgkm5t845LOT0R9CtWXJdqwpsumCJi2JLzus3ZwnSqLnAlvSe45IOCmsY41lBO5s3AJpKglGCIvo_Pk-8hKUKyeowe-1x2wiSZD_JExsmG5FQP-WwL3qczH9XxXxjR4A6nrKxjBvmSObibRpcEtB8S1jpoNvon3C1I-B6QblUZ85Bh-Gma1bUenoAmb7NFBvuGe7M9Cuz8YYgB2hSNBvNplALCI47WI7nJZwhCqJJ3HVLeQM4rtf0rY0oPqfv8Pp_inssKkYfNrnu1SuXCkSfSk9Y84ovLy8HR76gVXSvnR6c24Z8Qec0ula3qXZlHNl9ccwkky9VhTLhQuzEAad4HNqWJiK8mrTCcDsgWEcWAJKyIloF5SOo8nh-lEYrAw=w1200-h800-no)
+
+stephen gill
+book design
+custom typeface relative book
+often start with one one specific weight for one use case and expand the family from there
+proportional typeface with the feeling of a monospaced
+every letter stays the same width across all weights
+
+##stuart griffiths
+the myth of the airborne warrior
+visual system black line
+censorship, censor non factual information in essay
+inspiration for letterforms from worn down letterpress letters
+archive typeface
+
+##No Cash Value
+amsterdam exhibition
+value, cultural interpretation of money
+type sizes money £20 20pt
+Value Sans (old english grotesques), Value Serif
+share the same skeleton
+
+##hotshoe magazine 2012
+http://www.hotshoeinternational.com/about
+
+new display typeface for every isssue (4 a year)
+allows for faster process, less polish needed than for commercial typeface release
+same design system, different typefaces
+real context for better evaluation
+
+basis grotesque
+hotshoe
+own material
+off white and regular cut. off weight slightly heavier for coloured backgruunds, uk road sign face
+
+##stanley barker
+http://stanleybarker.co.uk/
+custom font based on unica: grotesk 54
+
+##la fabrique
+documents design process in a visual way
+
+##nasty gal
+![font](http://i0.wp.com/blog.nastygal.com/wp-content/uploads/2014/11/NG-Grot-BC_UPDATED1.gif?zoom=1.5&resize=800%2C550)
+
+Nasty Gal is a fast-growing clothes brand. They work with lots of different designers, freelancers and interns, so they needed some way to introduce consistency.
+A full brand styleguide would have been too limiting, so Colophone designed three bespoke typefaces for them.
+NG Grot 1
+NG Grot 2
+NG Grot 3
+
+no regular, bold or light, less strict than a brand styleguide
+alternate characters, alternate punctuation
+automatic application of style
+
+##Castledown School
+![school](http://www.wired.com/wp-content/uploads/2014/04/castledownin.jpg)
+type family for a primary school
+combination of arial, times and comic sans
+relates to handwriting
+
+castledown regular
+castledown fun (rationalised comic sans)
+castledown cursive
+technical challenge, open type features to join characters, each character has 14 versions
+stylistic alternates
+instructional variants
+
+##five years
+retrospective show
+loss of control when you release a typeface
+applied 26 faces to made up scenes
+burgess bold for the show
