@@ -8,39 +8,30 @@ presentation: 'http://moodle.arts.ac.uk/pluginfile.php/454866/mod_page/content/1
 abstract: "The effects of the industrial revolution on society fueled the renewal of humanism within the Arts & Crafts movement, and new art movements like Art Nouveau."
 ---
 
-![ornament](https://libraries.mit.edu/150books/files/2011/01/1865_ill2-1024x1014.jpg)
-
 Industrial revolution brought huge changes, artists responded to that (samuel palmer recreates a vision of England before the industrial age)
 
-Invention of photography mid 1830s. Whitehall from trafalgar square
-londons population doubles in 100 years 1801 to 1911
-People had to move to the cities, poverty grew
+London's population doubles in 100 years 1801 to 1911
+People were forced to move to the cities, poverty grew
 
-(the language of walls)
 
-advertising culture begins to take hold of urban space (lots of shit going on in the city, competition)
-posters beome a part of urban landscape (painting on the sides of buildings, clapham)
+![posters](https://upload.wikimedia.org/wikipedia/en/b/b3/Parrywatercolour_London_Street_Scene.png)
+Advertising culture takes hold of the city. Competition in the city forced businesses to advertise. When there is no competition, you don't need to advertise.
+Posters beome a part of urban landscape. (painting on the sides of buildings, clapham)
 
-Invention of lithographic printing allows for bigger posters in mass reproduction
-before that reproduction of images was limited, follows the mass production of products
-
-(susan sontag on posters)
+Invention of [lithography](https://en.wikipedia.org/wiki/Lithography) allows for the mass reproduction of artwork for the first time in history.
 
 ##Arts and Craft Movement
-Headed by William Morris, social reformer, challenged negative effects of industrial society. Left-wing
-walter crane
-Arts and Crafts exhibition society, 1887
+- Led by [William Morris](https://en.wikipedia.org/wiki/William_Morris) (socialist, challenged negative effects of industrial society)
+- [Walter Crane](https://en.wikipedia.org/wiki/Walter_Crane) (Book Illustrator)
+- [Arts and Crafts Exhibition Society](https://en.wikipedia.org/wiki/Arts_and_Crafts_Exhibition_Society), 1887
 
-##Pre-Raohaelite Brotherhood
-purity of italian art before raphael
-movement to see the past as superior after the industrial revolution
+##Pre-Raphaelite Brotherhood
+Movement to revive italian art before Raphael, saw everything about the past as superior
 
-john everett millais, ophelia
-rosetti, prosperpine
+- [John Everett Millais, Ophelia](http://www.tate.org.uk/art/artworks/millais-ophelia-n01506)
+- [Dante Gabriel Rosetti, Prosperpine](http://www.tate.org.uk/art/artworks/rossetti-proserpine-n05064)
 
-factories come under criticism for the way they change society (engels, marx)
-goods produced by factories percieved to be ugly, "devoid of beauty"
-maple & co lamps catalogue
+Factories come under criticism for the way they change society (engels, marx) goods produced by factories percieved to be ugly, "devoid of beauty"
 
 ##More on William Morris
 gothic architecture
@@ -61,12 +52,15 @@ middle age
 christopher dresser
 industrial design
 
-##The Grammar of Ornament
-owen jones
+##Owen Jones: The Grammar of Ornament
+- [Owen Jones](https://en.wikipedia.org/wiki/Owen_Jones_(architect))
+- Spent years travelling Europe and the middle east studying art and craftsmanship
+- First director of the South Kensington Museum (Later to become the V&A)
+
 the decorative arts arise from architecture
-grand tour
-studies ornamentation all over the place (middle east
 established good taste
+
+![ornament](https://libraries.mit.edu/150books/files/2011/01/1865_ill2-1024x1014.jpg)
 
 objective standard of beauty
 
@@ -76,7 +70,10 @@ abstraction, scientific deconstruction of botanic drawings
 
 'savage tribes' (reading)
 
-proposition 36
+> The principles discoverable in the works of the past belong to us; not so the results. It is taking the end for the means.
+(Proposition 36)
+
+[All propositions](http://www.bc.edu/bc_org/avp/cas/fnart/fa267/grammar/propositions.html)
 
 ##The Art Nouveau
 ![art](http://blog.europeana.eu/wp-content/uploads/2012/07/005.jpg)
@@ -88,5 +85,5 @@ gustav klimt looks back at greek, byzantine, egyptian styles
 flaneur
 invention of hot air balloons, exposition universelle de paris
 
-adolf loos, 1908
+#Adolf Loos: Ornament and Crime, 1908
 no ornamentation
