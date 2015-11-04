@@ -5,6 +5,7 @@ date:   2015-10-27 09:45:00
 teacher: Amanda Jenkins
 unit: '1-4'
 abstract: ""
+presentation: "http://moodle.arts.ac.uk/pluginfile.php/454866/mod_page/content/19/1.%20optimised%20AJ_Lecture_y1DESPROG_great_exhib_14.pdf"
 ---
 
 what happens in the 19th century anticipates the developments in the 20th century. 
