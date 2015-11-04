@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peter Chadwik: Brutalism, graphic design, music and me"
+title:  "Peter Chadwick: Brutalism, graphic design, music and me"
 date:   2015-11-04 10:45:00
 teacher: Peter Chadwick
 unit: 'VP'
@@ -9,7 +9,7 @@ website: 'https://twitter.com/Popular_Space'
 ---
 
 late 90s either you do record sleeves or brochures
-middlesbrough beah
+middlesbrough beach
 record sleeves as escape
 blade runner
 ridley scott from the same area, same reference point
