@@ -4,10 +4,13 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li class='post-list-post'>
-        <span class="post-list-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <span class="post-list-meta">{{ post.teacher }}</span>
+        <p class="post-list-meta">
+          <span class="post-meta-item"><span class='post-meta-title'>Date</span>{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta-item"><span class='post-meta-title'>Speaker</span>{{ post.teacher }}</span>
+          <span class="post-meta-item"><span class='post-meta-title'>Unit</span>{{ post.unit }}</span>
+         </p>
         <h2>
-          <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.unit }}: {{ post.title }}</a>
+          <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
