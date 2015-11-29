@@ -3,9 +3,25 @@
   text-decoration: none;
 }
 .site-header {
-  padding: 2rem;
+  padding: 2rem 5%;
   background: rgb(240,240,240);
 }
+
+.post-list-meta {
+  display: flex;
+}
+
+.post-meta-item {
+  margin-right: 2rem;
+}
+
+.post-meta-title {
+  font-size: .7rem;
+  display: block;
+  color: gray;
+  margin-bottom: .2rem;
+}
+
 .post-list {
   list-style: none;
   padding-top: 5%;
@@ -14,16 +30,27 @@
  
  .post-list-post {
    padding-left: 5%;
-   padding-top: 1rem;
-   padding-bottom: 1rem;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
    border-bottom: 1px solid $lightgray;
+   
+   h2 {
+     font-weight: normal
+   }
  }
  
  .post-list-link {
    color: $black;
+   margin-top: .6rem;
+   display: block;
    text-decoration: none;
-   font-size: 1rem;
+   font-size: 1.5rem;
+   
+   &:hover, &:focus {
+     text-decoration: underline;
+   }
  }
+ 
 .post {
   margin-bottom: 2rem;
 }
@@ -68,6 +95,9 @@
   }
 }
 
+.post-unit {
+  color: rgba($black, .6);
+}
 .post-header {
   padding: 2rem;
   border-bottom: 1px solid rgb(220,220,220);
