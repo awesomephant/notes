@@ -31,26 +31,25 @@ proportional typeface with the feeling of a monospaced
 every letter stays the same width across all weights
 
 ##Stuart Griffiths
-the myth of the airborne warrior
-visual system black line
-censorship, censor non factual information in essay
-inspiration for letterforms from worn down letterpress letters
-archive typeface
+- The myth of the airborne warrior
+- Visual system black line
+- Censorship, censor non factual information in essay
+- Inspiration for letterforms from worn down letterpress letters
+- Archive typeface
 
 ##No Cash Value
-amsterdam exhibition
-value, cultural interpretation of money
-type sizes money £20 20pt
-Value Sans (old english grotesques), Value Serif
-share the same skeleton
+- Amsterdam exhibition
+- Touches on the value, cultural interpretation of money
+- Type sizes linked to different notes: £20 -> 20pt
+- Value Sans (inspired by old English grotesques), Value Serif (Both typefaces share the same skeleton)
 
 ##Hotshoe Magazine
 http://www.hotshoeinternational.com/about
 
-new display typeface for every isssue (4 a year)
-allows for faster process, less polish needed than for commercial typeface release
-same design system, different typefaces
-real context for better evaluation
+- New display typeface for every isssue (4 a year)
+- Allows for faster process, less polish needed than for commercial typeface release
+- Same design system, different typefaces
+- Real context for better evaluation
 
 basis grotesque
 hotshoe
@@ -59,10 +58,10 @@ off white and regular cut. off weight slightly heavier for coloured backgruunds,
 
 ##Stanley Barker
 http://stanleybarker.co.uk/
-custom font based on unica: grotesk 54
+Custom font based on unica: Grotesk 54
 
 ##La Fabrique
-documents design process in a visual way
+Documents design process in a visual way
 
 ##Nasty Gal
 ![font](http://i0.wp.com/blog.nastygal.com/wp-content/uploads/2014/11/NG-Grot-BC_UPDATED1.gif?zoom=1.5&resize=800%2C550)
@@ -74,29 +73,34 @@ A full brand styleguide would have been too limiting, so Colophone designed thre
 - NG Grot 2
 - NG Grot 3
 
-no regular, bold or light, less strict than a brand styleguide
-alternate characters, alternate punctuation
-automatic application of style
+- No traditional Regular, Bold and Light weights, instead three distinct versions of the typeface that can be used in different ways
+- Alternate characters, Alternate punctuation
+- Automatic application of certan stylistic elements through Open Type features
 
 [Blog Post about the Project](http://blog.nastygal.com/culture/ng-hq/2014/11/meet-nasty-gals-new-typeface/)
 
 ##Castledown School
 ![school](http://www.wired.com/wp-content/uploads/2014/04/castledownin.jpg)
-type family for a primary school
-combination of arial, times and comic sans
-relates to handwriting
 
-castledown regular
-castledown fun (rationalised comic sans)
-castledown cursive
-technical challenge, open type features to join characters, each character has 14 versions
+- Type family for Castledown Primary School
+- Combination of different attributes from Arial, Times and Comic Sans
+- Relates to handwriting
+
+Three different cuts: 
+
+1. Castledown Regular
+2. Castledown Fun (rationalised comic sans)
+3. Castledown Cursive & Castledown Cursive Instructional
+
+The cursive version was a technical challenge, they used Open Type to create natural ligatures between chracters, each character has up to 14 different versions
 stylistic alternates
-instructional variants
 
 [Wired Article on the Project](http://www.wired.com/2014/05/to-help-students-learn-this-school-created-its-own-font/)
 
 ##Five Years
-retrospective show
-loss of control when you release a typeface
-applied 26 faces to made up scenes
-burgess bold for the show
+![print](http://www.colophon-foundry.org/fiveyears/img/promo-apercu-full.jpg)
+
+- Retrospective show
+- Explores loss of control when you release a typeface
+- Applied 26 typefaces to made up scenes
+- Developed new typeface Burgess Bold for the show
