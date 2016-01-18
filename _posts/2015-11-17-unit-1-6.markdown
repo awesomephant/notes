@@ -2,15 +2,14 @@
 layout: post
 title:  "Bauhaus"
 date:   2015-11-17 09:45:00
-teacher: 
+teacher: Michael Hurley
 unit: '1-6'
 abstract: ""
+presentation: http://moodle.arts.ac.uk/pluginfile.php/454866/mod_page/content/31/bauhaus_%20presentaion.pdf
 ---
 
-wiener werkstaette followd the same principals of the arts and crafts movement
-both forerunners of the bauhaus
-
-weimar republic one of the most creative periods in the 20th century
+- The Bauhaus followed the principles and values that the Wiener Werkstaette and the Arts and Crafts movement established.
+- Weimar Republic one of the most creative periods in the 20th century
 
 <iframe width="860" height="465" src="https://www.youtube.com/embed/hBlB8RAJEEc" frameborder="0" allowfullscreen></iframe>
 Cabaret (1972) Willkommen
@@ -74,8 +73,12 @@ theo van doesburg
 der stil magazine
 the use of machines must be governed by artistic vision
 
-ritveld chair
-marcel breuer chair
+![ritveld](http://www.rietveldoriginals.com/wp-content/uploads/2013/10/rietveld_red_blue.jpg)
+Ritveld Chair
+
+![wassily chair](http://www.knoll.com/static_resources/images/products/catalog/eco/parts/50L/50L-(PC)_BLBLCK_FZ.jpg)
+
+Marcel Breuer: Wassily Chair
 
 1925 bauhaus moves from weimar to dessau
 1928 gropius steps down, hannes meyer takes over
@@ -97,5 +100,5 @@ max bill helped build swiss design
 worked with dieter rahms
 
 mariane brandt teapot
-barcelone chair
+barcelona chair
 all this stuff is still in production

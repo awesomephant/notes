@@ -4,11 +4,11 @@ title:  "Factual Illustration: What, Why and How?"
 date:   2015-12-09 10:45:00
 teacher: Merlin Evans
 unit: 'VP'
-abstract: ""
+abstract: "Working as an illustrator is very different from being an illustrator in art school. There's a lot more to it than just drawing, and you can work in a number of very different fields."
 website: 'http://merlinevans.com/'
 ---
 
-Working as an illustrator is very different from being an illustrator in art school. There's more to it than just drawing stuff.
+There's more to it than just drawing stuff.
 Multi-disciplined illustrator: Different clients, education work workshops, lectures
 
 ##Factual Illustrations

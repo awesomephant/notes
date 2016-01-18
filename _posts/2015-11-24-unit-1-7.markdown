@@ -5,6 +5,7 @@ date:   2015-11-17 09:45:00
 teacher: Dr. Sheena Calvert
 unit: '1-7'
 abstract: ""
+presentation: http://moodle.arts.ac.uk/pluginfile.php/454866/mod_page/content/31/Unit%201%20Lecture%2C%20November%2024th.pdf
 ---
 
 the evolution of culture marches with the elimination of ornament
@@ -65,16 +66,20 @@ sees intrinsic beauty in everyday objects
 
 modernism/international modernism and vision of progress
 
-abram games
-your talk may kill your comrades
-uses idea of modernist abstractions to adress important social issues
-london undergroud posters
-speed underground
-mcnight kauffer
-paul renner futura - elimination of capitals
-london transport at london's service
-man ray poster
-new tube map
+##Abram Games
+![games](http://www.nationalarchives.gov.uk/theartofwar/img/pics/works/INF3_0116.jpg)
+
+- "Your talk may kill your comrades"
+- Uses idea of modernist abstractions to adress important social issues
+- london undergroud posters
+- speed underground
+- mcnight kauffer
+- **Paul Renner** futura - elimination of capitals
+- london transport at london's service
+- man ray poster
+
+![tube](http://www.bbc.co.uk/london/travel/downloads/tube_map.gif)
+- new tube map
 
 villa sovoy, le corbusier
 the house is a machine for living it
