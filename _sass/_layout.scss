@@ -4,7 +4,11 @@
 }
 .site-header {
   padding: 2rem 5%;
-  background: rgb(240,240,240);
+  background: $lightgray;
+}
+
+.page-content {
+  border: 20px solid $lightgray;
 }
 
 .post-list-meta {
@@ -74,6 +78,10 @@
   }
 }
 
+.post-title {
+  font-weight: normal
+}
+
 .post-abstract {
   font-size: 1.5rem;
   padding-top: 1rem;
@@ -109,7 +117,11 @@
   p, ol, ul {
     margin-bottom: 1rem;
   }
-
+  
+  h2, h3 {
+    font-weight: normal
+  }
+  
   ul, ol {
     margin-left: 1rem;
   }
@@ -124,6 +136,8 @@ img, iframe {
   padding-bottom: 3rem;
   font-size: .8rem;
   color: gray;
+  padding-top: 1rem;
+  background: $lightgray;
   text-align: center;
   p {
     margin-bottom: .5rem;
