@@ -9,3 +9,7 @@ $black: rgb(50,50,50);
 @import
         "base",
         "layout";
+
+@media print {
+        @import "print";
+}
