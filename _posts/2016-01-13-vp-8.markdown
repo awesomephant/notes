@@ -8,7 +8,7 @@ abstract: ""
 website: 'http://www.heartagency.com/artist/JasonFord/gallery/1'
 ---
 
-##stuff that has influenced me
+## stuff that has influenced me
 
 - superheroes, superhero fingerpuppets
 - record sleeves (beatles)
