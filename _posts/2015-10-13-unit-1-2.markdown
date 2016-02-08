@@ -7,7 +7,7 @@ unit: '1-2'
 abstract: "Samuel Palmer was 18th century romantic painter. In the age of industrial revolution, he and the Shoreham Ancients looked back at their highly idealised version of past, rural life. However their simplified visual language influenced modernist artists."
 ---
 
-##Samuel Palmer
+## Samuel Palmer
 
 influences the modern, idealisation of the rural and the past
 romantic painter
@@ -31,7 +31,7 @@ the dell of comus
 enlightenment vs Romanticism
 influenced by blake
 
-##Shoreham Ancients
+## Shoreham Ancients
 Group of artists formed around 1824, decieded to move from East London to Shoreham, Kent to live a rural life.
 moves from london to a rural area
 
@@ -64,11 +64,11 @@ palmer, coming from the evening church
 
 Although Palmer looks back at a past that never existed, his means of communication are modernist. He simplifies shapes, colours and textures down to their essence to make his message more impactful.
 
-##People Palmer had Influence on
+## People Palmer had Influence on
 - [Graham Sutherland](https://en.wikipedia.org/wiki/Graham_Sutherland), sun setting between hills, crayfields (see palmer)
 - [Eric Ravilious](https://en.wikipedia.org/wiki/Eric_Ravilious)
 
-##Ideology of Sentiment
+## Ideology of Sentiment
 
 modernism is about utility but draws back to the past
 

@@ -8,13 +8,13 @@ abstract: ''
 website: 'https://twitter.com/Popular_Space'
 ---
 
-##Background in Music
+## Background in Music
 
 - First pieces of design he looked at were his dad's album covers
 - As a graphic designer in the late 90s you either did brochures or you did record sleeves
 - Art on record sleeves was his escape from Middlesbrough
 
-#Middlesbrough
+## Middlesbrough
 
 Ridley Scott was born in the same area, and used the industrial landscape in Middlesborough as inspiration for Blade Runner.
 
@@ -22,7 +22,7 @@ Ridley Scott was born in the same area, and used the industrial landscape in Mid
 
 If Ridley Scott can escape the English countryside and make a living making movies (as opposed to working for British Steel) so can I.
 
-##1988 Move to London
+## 1988 Move to London
 - Was exposed to brutalist architecture in South London
 - Started taking photos of the Barbican Centre, came back again and again. Started taking photos of other brutalist buildings, like [Balfron Tower](https://en.wikipedia.org/wiki/Balfron_Tower)
 - Got offered a job to design a record cover for an 80s-inspired album, couldn't relate to the artist (80s airbrush posters neon VS miners strike
@@ -31,7 +31,7 @@ If Ridley Scott can escape the English countryside and make a living making movi
 - Took more photos of Architecture
 - Brutalist architecture is about straight lines, grids, big overlap with graphic design
 
-##This Brutal House @brutalhouse
+## This Brutal House @brutalhouse
 ![brutal](http://cdn.siteinspire.com/screengrabs/images/000/006/293/large.jpg)
 
 - Started a [twitter account](http://www.twitter.com/brutalhouse) and [a website](http://www.thisbrutalhouse.com/
@@ -44,7 +44,7 @@ makes the difference
 - **Goal**: Reach a new audience in architecture, build a new portfolio to attract clients outside the music industry
 - Got featured in online publications, started gaining around 1000 new followers a month
 
-##What is Brutalism?
+## What is Brutalism?
 - [The New Brutalism](http://www.architectural-review.com/essays/1955-december-the-new-brutalism-by-reyner-banham/8603840.article) by Reyner Banham, first published in 1955
 - Heavily influenced by Le Corbusier
 - [Beton Brut](https://en.wikipedia.org/wiki/B%C3%A9ton_brut) (Exposed, unfinished concrete)
@@ -55,7 +55,7 @@ makes the difference
 	- [Ernő Goldfinger](https://en.wikipedia.org/wiki/Ern%C5%91_Goldfinger)
 	- [Berthold Lubetkin](https://en.wikipedia.org/wiki/Berthold_Lubetkin)
 
-#Thamesmead, A Clockwork Orange
+## Thamesmead, A Clockwork Orange
 ![orange](http://i0.wp.com/www.lovelondoncouncilhousing.com/wp-content/uploads/2013/06/LLCH-ACO.jpg)
 ![thames](http://assets.itsnicethat.com/system/files/032014/531858765c3e3c505a005b26/images_slice_large/tm%E2%80%94posters4.jpg?1438262055)
 
@@ -64,15 +64,15 @@ makes the difference
 - [Itsnicethat article on the Project](http://www.itsnicethat.com/articles/popular-this-brutal-house)
 - [The Guardian on "Clockwork Orange Country"](http://www.theguardian.com/culture/2000/mar/13/artsfeatures2)
 
-##Questions
+## Questions
 
-###You mentioned Sunday night was the best time to tweet, you get different amounts of engagement for different kinds of content etc. How technical do you get about these statistics, do you use analytics software or is it all gut instinct? 
+### You mentioned Sunday night was the best time to tweet, you get different amounts of engagement for different kinds of content etc. How technical do you get about these statistics, do you use analytics software or is it all gut instinct? 
 
 I don't do the analytics myself. I have two very talented people who do that for me, and also take care of the website. They get back to me with bits of information on engagement and things. This allows me to just focus on the content.
 
-###Do you think brutalist social housing projects were built with good intentions, and seeing the state a lot of them are in today, did they fail?
+### Do you think brutalist social housing projects were built with good intentions, and seeing the state a lot of them are in today, did they fail?
 
 I do think hey were built with the best intentions. What failed was the upkeep and maintainance of the buildings. There was often no further investment after the inital construction, and that's what led to the decay of a lot of these bulidings. Only today are we starting to preserve them pieces of architectural history, which is good but should have begun earlier.
 
-###Are there fundamental design problems in brutalist architecture?
+### Are there fundamental design problems in brutalist architecture?
 buildings were built up without care, quickly as possible

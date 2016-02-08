@@ -20,12 +20,12 @@ Posters beome a part of urban landscape. (painting on the sides of buildings, cl
 
 Invention of [lithography](https://en.wikipedia.org/wiki/Lithography) allows for the mass reproduction of artwork for the first time in history.
 
-##Arts and Craft Movement
+## Arts and Craft Movement
 - Led by [William Morris](https://en.wikipedia.org/wiki/William_Morris) (socialist, challenged negative effects of industrial society)
 - [Walter Crane](https://en.wikipedia.org/wiki/Walter_Crane) (Book Illustrator)
 - [Arts and Crafts Exhibition Society](https://en.wikipedia.org/wiki/Arts_and_Crafts_Exhibition_Society), 1887
 
-##Pre-Raphaelite Brotherhood
+## Pre-Raphaelite Brotherhood
 Movement to revive italian art before Raphael, saw everything about the past as superior
 
 - [John Everett Millais, Ophelia](http://www.tate.org.uk/art/artworks/millais-ophelia-n01506)
@@ -33,7 +33,7 @@ Movement to revive italian art before Raphael, saw everything about the past as 
 
 Factories come under criticism for the way they change society (engels, marx) goods produced by factories percieved to be ugly, "devoid of beauty"
 
-##More on William Morris
+## More on William Morris
 gothic architecture
 well-designed goods would improve society
 material environment affects moral fibre of society
@@ -46,13 +46,13 @@ the red house
 
 oscar wilde compares art to flower, art is useless
 
-##Walter Crane
+## Walter Crane
 middle age
 
 christopher dresser
 industrial design
 
-##Owen Jones: The Grammar of Ornament
+## Owen Jones: The Grammar of Ornament
 - [Owen Jones](https://en.wikipedia.org/wiki/Owen_Jones_(architect))
 - Spent years travelling Europe and the middle east studying art and craftsmanship
 - First director of the South Kensington Museum (Later to become the V&A)
@@ -75,7 +75,7 @@ abstraction, scientific deconstruction of botanic drawings
 
 [All propositions](http://www.bc.edu/bc_org/avp/cas/fnart/fa267/grammar/propositions.html)
 
-##The Art Nouveau
+## The Art Nouveau
 ![art](http://blog.europeana.eu/wp-content/uploads/2012/07/005.jpg)
 1880s to ww1
 aubrey beardsley
@@ -85,5 +85,5 @@ gustav klimt looks back at greek, byzantine, egyptian styles
 flaneur
 invention of hot air balloons, exposition universelle de paris
 
-#Adolf Loos: Ornament and Crime, 1908
-no ornamentation
+# Adolf Loos: Ornament and Crime, 1908
+Argues that ornamentation slows down progress

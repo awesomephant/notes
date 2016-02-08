@@ -16,7 +16,7 @@ revolutions affect "how we make"
 
 sometimes digital doesnt always speed things up, frees us not always
 
-##"Program or be programmed" - Douglass Rushkoff
+## "Program or be programmed" - Douglass Rushkoff
 
 if you dont code you're always limited by the program you're working with
 if we dont understand the biases of the tools we work with we risk being enslaved by them
@@ -48,7 +48,7 @@ sensors gather information
 the uncanny valley
 people like robots human but not too human
 
-##Adrian Holmes: Modernism has not Failed
+## Adrian Holmes: Modernism has not Failed
 galliard homes capital towers promotional video
 marks and spencers cafe in stratford
 modernism all around you (furniture, lighting, architecture)

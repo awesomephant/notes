@@ -9,10 +9,10 @@ presentation: 'http://moodle.arts.ac.uk/pluginfile.php/454866/mod_page/content/8
 ---
 
 
-##Why do we study design history?
+## Why do we study design history?
 Design history is a tool we can use to understand our own work better. It helps us understand what it means to be modern. We need to be active about knowledge, challenge it. "Knowledge is not for knowing, knowledge is for cutting"
 
-##Industrial revolution
+## Industrial revolution
 
 The industrial revolution brought huge changes in agriculture and industry. Modernity is about progress.
 
@@ -26,12 +26,12 @@ Coalbrookdale by night 1801
 
 With industrial progress comes change to the way people live
 
-#Separation of Labour
+## Separation of Labour
 Way of production that allows each worker to focus on just one small task. This allows for greater productivity, the use of specialised machines. Leads to a loss of ownership, the individual worker has no connection to the final product.
 
 modernity is about adopting an attitude to change
 
-##Neoclassicism
+## Neoclassicism
 during the 1800s, people retreating to the past
 ![vase](https://upload.wikimedia.org/wikipedia/commons/9/91/Portland_Vase_V%26A.jpg)
 wedgwood vase
@@ -46,7 +46,7 @@ watt, fabric production
 
 modernism has its root in enlightenment
 
-##Globalisation
+## Globalisation
 Starting with the invention of the electrical telegraph, globalisation has taken the separation of labour to a new level.
 
 

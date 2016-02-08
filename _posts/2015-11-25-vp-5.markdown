@@ -17,14 +17,14 @@ comics art for tate
 
 hicksville by dylan horrocks
 
-##Good books if you want to get into comics
+## Good books if you want to get into comics
 
 - Alan Moore: [Writing for Comics](https://libsearch.arts.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=238105&query_desc=kw%2Cwrdl%3A%20writing%20for%20comics)
 - Lynda Barry: [What it is](https://libsearch.arts.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=240024&query_desc=kw%2Cwrdl%3A%20lynda%20barry)
 - Jessica Abel, Matt Madden: [Drawing Words & Writing Pictures](https://libsearch.arts.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=258867&query_desc=kw%2Cwrdl%3A%20jessica%20abel)
 - Scott McCloud: [Understanding Comics](https://libsearch.arts.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=92089&query_desc=kw%2Cwrdl%3A%20understanding%20comics)
 
-##Comics have quite a long history
+## Comics have quite a long history
 
 ![topffer](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Toepffer_Cryptogame_13.png/1920px-Toepffer_Cryptogame_13.png)
 Swiss author and teacher **Rodolphe Töpffer** can be regarded as the first European comic artist. He was the first to combine text and illustration and to divide a story into multiple panels.
@@ -56,11 +56,11 @@ American comics caused a huge public outcry when they were first introduced in B
 
 In the mid-1960s people started collecting, and thereby validating comic books.
 
-##Why Make a Graphic Novel
+## Why Make a Graphic Novel
 
 getting beyond the first ten minutes
 
-###Ways to get into the industry
+### Ways to get into the industry
 
 - Anthologies are a great way to get noticed, [Off Life](http://offlife.co.uk/), [Ink + Paper](http://inkpluspaper.com/)
 - Artist can get portfolio reviews from publishers at conventions
@@ -125,7 +125,7 @@ David Mazzucchelli: Asterios Polyp (2009)
 posy simmonds
 oppposing images with extedned passages of text
 
-##Distinctive drawing styles for different characters
+## Distinctive drawing styles for different characters
 different typography, different baloon shapes
 
 david hughes
@@ -133,7 +133,7 @@ david hughes
 ![spacedog](http://gingkopress.com/wp/wp-content/uploads/product_images/spacedog/i02.jpg)
 Hendrik Dorgathen: Spacedog
 
-##Manga techniques
+## Manga techniques
 ![underwater](http://goodokbad.com/assets/images/books/cotsea_05.jpg)
 Daisuke Igarashi: Children of the Sea
 
@@ -146,9 +146,9 @@ Daisuke Igarashi: Children of the Sea
 
 Scott McCloud on Tintin
 
-##Questions
+## Questions
 
-###What do you think the future of comics might look like?
+### What do you think the future of comics might look like?
 - Motion comics, 2d artwork that moves around in layers
 - Digital media is starting to be used not to replicate a comic book but to do something new and interesting. (iPad isn't a page, but a portal you look through)
 - Things like [Electricomics](https://itunes.apple.com/us/app/electricomics/id1025920561) enable people to engage with comics in new ways
@@ -157,5 +157,5 @@ Scott McCloud on Tintin
 - The fundamental thing comics do is letting the reader interact with it, giving the reader more control than any other medium. Digital media can do that in amazing new ways, as long as it's not buried in cheap gimmicks.
 - Korea is the largest market for web comics in the world. Their comics are heavily optimised for phones, there's parrallax effect, phone will vibrate when you get to certain panels, scrolling activates things
 
-###Where are you drawing th line between comics and graphic novels, and do you think we need the distinction at all?
-its marketing, but allowed comics to get into unis museums and shit we dont really need it
+### Where are you drawing th line between comics and graphic novels, and do you think we need the distinction at all?
+It's marketing, but allowed comics to get into unis museums and shit we dont really need it

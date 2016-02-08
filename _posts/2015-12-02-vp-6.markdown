@@ -10,7 +10,7 @@ website: 'http://www.thomasadank.com/'
 
 Swiss still-life photographer, studied at Royal College of Arts
 
-##Brief History of Still Life
+## Brief History of Still Life
 
 ![vanitas](https://upload.wikimedia.org/wikipedia/commons/1/12/Adriaen_van_Utrecht_-_Vanitas_Still-Life_with_a_Bouquet_and_a_Skull_-_WGA24200.jpg)
 Adriaen van Utrecht, _Vanitas Still Life with Flowers and Skull_, 1642. Oil on canvas, 67 x 86 cm.
@@ -65,7 +65,7 @@ integrated a print of the gallery space in rc into studio setup
 ![london](https://protein-cms-prod.s3.amazonaws.com/grafik/286/large_2.Europa_BlackhorseLane.jpg)
 ![london](http://www.thomasadank.com/index.php?rex_img_type=ImgProject&rex_img_file=billboards_starcatering_left.jpg)
 
-##Comission for London Borough of Waltham Forest
+## Comission for London Borough of Waltham Forest
 
 - Billbords
 - Find objects, create relationship to local companies and people
@@ -74,7 +74,7 @@ integrated a print of the gallery space in rc into studio setup
 
 ![stockholm](http://www.thomasadank.com/index.php?rex_img_type=ImgProject&rex_img_file=sergelstorg_image.jpg)
 
-##Comission for Stockholm Culture House
+## Comission for Stockholm Culture House
 - exhibition about skateboarding in the city
 - pattern from famous place in stockhol
 - uses comic book characters
@@ -94,9 +94,9 @@ smell
 noise
 absolute representation of the goal of a photograph: being looked at
 
-#Questions
+## Questions
 
-###A lot of your pictures seem to require very elaborate physical setups. (Having pieces of marble cut to shape, complex lighting setups). Surely, a lot of this could be achieved a lot cheaper digitally. Why do you choose to not do that?
+### A lot of your pictures seem to require very elaborate physical setups. (Having pieces of marble cut to shape, complex lighting setups). Surely, a lot of this could be achieved a lot cheaper digitally. Why do you choose to not do that?
 a big part of the work is that it is real
 there is a return to a reality of real objects 
 shot on film medium format
@@ -107,7 +107,7 @@ obvious retouch is interesting, show process
 
 obvious alterations in digital are an interesting thing to look at
 
-###talk about lighting and shit. 
+### Could you talk a bit more about how you use lighting to convey meaning in your photographs 
 the light is one of the most important tool to show an intention, you have to have an intention in your lighting that tells a narrative
 lighting surrounds the oobject to make them appear hyper real
 
@@ -116,12 +116,12 @@ huge setup, multiple lights
 light up background, foreground, different layers of light
 some of them have 7 different light sources to create perfect reflections, can get quite technical
 
-###when you are building compositions, do you follow certain rules
+### when you are building compositions, do you follow certain rules
 composition, choice of objects main problem of the work
 secondary objects to surround the main subjects and create a narrative
 theres not really a system, but often a sense of humor
 things people can relate to (pop culture references)
 
-###Does the symbolism overpower the visual integrity
+### Does the symbolism overpower the visual integrity
 hopefull it doesnt. You often see geometric shapes and stuff, hopefull the actual meaning isn't sactrificed to create composition
 the pictures would say something else when they looked different, very precise message
