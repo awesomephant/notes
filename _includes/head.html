@@ -15,6 +15,6 @@
     <meta name="twitter:creator" content="@awesomephant">
     <meta name="twitter:site" content="@awesomephant">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.abstract | strip_html | strip_newlines }}">
     <meta name="twitter:image:src" content="{% if page.thumb %}{{ page.thumb }}{% endif %}">
 </head>
