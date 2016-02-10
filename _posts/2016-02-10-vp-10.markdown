@@ -4,8 +4,9 @@ title:  "State of Play Games: Keeping it Real"
 date:   2016-02-10 10:30:00
 teacher: Luke Whittaker, Katherine Bidwell
 unit: 'VP'
-abstract: ""
+abstract: 'State of Play Games is a small, indepedent studio who bring hand-made paper models to a digital space. Their most recent games "Kami" and "Lumino City" have received numerous awards, including a BAFTA for artisitic achievement.'
 website: 'http://www.stateofplaygames.com/'
+thumb: 'https://www.rockpapershotgun.com/images/14/nov/lumino4.jpg'
 ---
 
 [Twitter](https://twitter.com/state_of_play)
