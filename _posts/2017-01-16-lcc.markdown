@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "designing for the unreal world"
+title: "Designing for the Unreal World"
 date: 2017-01-16 17:30:00
-teacher: "thomas twaites"
-unit: 'VP'
+teacher: "Thomas Twaites"
+unit: 'VIP'
 abstract: ""
 thumb: ""
 ---
