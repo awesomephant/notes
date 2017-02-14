@@ -8,12 +8,11 @@ abstract: ""
 thumb: ""
 ---
 
-## designing for the unreal world
-thomas twaites (http://www.thomasthwaites.com/)
+Thomas twaites [website](http://www.thomasthwaites.com/)
 
-Toaster project: http://www.thetoasterproject.org/page2.htm
+## [Toaster project](http://www.thetoasterproject.org/page2.htm)
 
-making a toaster from scratch (iron ore) for rca ma degree show 2009
+Making a toaster from scratch (iron ore) for rca ma degree show 2009
 begins with the fantasy of self-sufficiency, could you make it on a desert island
 (comes from a section hitchhikers guide to the galaxy)
 
