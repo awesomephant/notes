@@ -52,6 +52,16 @@
   color: $black;
 }
 
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
+
 .post-container {
   display: flex;
   flex-direction: column;  
