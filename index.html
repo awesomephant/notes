@@ -13,11 +13,16 @@ layout: default
 </ul>
 
 <script>
+  var radius = 0;
   var el = document.createElement('canvas');
   document.body.appendChild(el);
 var getRandomInt = function(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }  
+var shufflePen = function(){
+  c.fillStyle = randomColor();
+  radius = getRandomInt(50,100);
+}
   var getRelativeX = function(x){
     return x - el.offsetLeft; 
   };
@@ -28,14 +33,14 @@ var getRandomInt = function(min, max) {
   el.width = window.innerWidth * .9;
   el.height = window.innerHeight * .9;
   var c = el.getContext('2d');
-  c.fillStyle = randomColor();
-  var radius = getRandomInt(50,100);
-  
+  shufflePen();
   document.addEventListener('mousemove', function (e) {
     c.beginPath();
     console.log(getRelativeX(e.pageX));
     c.arc(getRelativeX(e.pageX) - radius / 2, getRelativeY(e.pageY) - radius / 2, radius, 0, 2 * Math.PI, false);
     c.fill();
   })
+
+  document.addEventListener('click', shufflePen)
 
 </script>
