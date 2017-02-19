@@ -9,10 +9,9 @@ website: ""
 thumb: ""
 ---
 
-**Georgina Voss**
-
 Design Fellow @ LCC
 [Strange Telemetry](http://www.strangetelemetry.com/)
+[Twitter](https://twitter.com/gsvoss?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 Speculative design and Valentine's Day
 What a weird day with weird design stuff going on, stepping away from logic. Valentine's day consumer products feel like a strange non-logical thing. Shows what strange assumptions and meanings we attach to things.
@@ -87,7 +86,7 @@ What if sexual health objects were cheap
 
 Speculative desin can be about reframing cultural perceptiosn of things - artificial wombs (matrix). What would it mean to sperate out childbirth, different parts of family norms etc. What if artificial wombs existed. We create stuff to think things in new ways, not dicate the action
 
-I wanna deliver a dolphin
+[I wanna deliver a dolphin](http://aihasegawa.info/?works=i-wanna-deliver-a-dolphin)
 Ai Hasegawas
 
 Seperate out childbirth from the idea of having children
@@ -97,23 +96,26 @@ Black Mirror
 antitehsis of the matrix
 idea of having an online space where people find each other, movign away from cultural expectations of uploading your conciousness etc.
 
-## questions
+## Questions
 
-Are there villains in the spec design work. Use the means of spec design for nefarious purposes.
+### Are there villains in the field of speculative design / People who use the means of speculative design for nefarious purposes?
+
 Theres def propaganda design - soviet russia. Story is baked into posters, books, obects, science your making. Spec design is not one thing, its contested. Spec design asks what if, propaganda says this is. What would the world look like if the carter admin had invested into 
 state of statistics inc china, this is the size of the inauguration crowd
 propagada aims to shut down conversaiton, spec design broadens it.
 
-is it okay for your audience to be tricked by your spec design. Are fake memes a legitimate way to change people's behaviour.
+Is it okay for your audience to be tricked by your spec design. Are fake memes a legitimate way to change people's behaviour.
 
 Power dynamics also a part of it - if it's coming down from the top eg from the state or from the bottom up
 
-### How do u practice spec design
+### How do you practice speculative design?
+
 ocomes from academia, anthropology. Using design, technology to ask questions you would otherwise write a book about. Can do things, materialize things in ways that text cannot. You can write about teh cheese things but it doesn't have the same audience reaction than doing the real thing. Encourage people to do critical thinking, inform other areas of design.
 
 In our work we try to engage public, policymakers etc in global questions. Hows spec design different to art. A lot of the terminology comee from art.
 
 The way people engage with somehing that is presented as ar vs design is very different. Huge proportion of the work is student projects - not made for the industry or academia. It is about testing boundries and stuff
 
-## People are saying we're living in a spec design project
-stuf is only unusual in a very small context. 
+### People are saying we're living in a spec design project / Stuff that's happening in the world seems so inconceivable (eg President Trump), what is there left to do for a speculative designer?
+
+Stuff is only unusual in a very small context. 
