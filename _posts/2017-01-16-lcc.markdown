@@ -12,21 +12,22 @@ Thomas twaites [website](http://www.thomasthwaites.com/)
 
 ## [Toaster project](http://www.thetoasterproject.org/page2.htm)
 
-Making a toaster from scratch (iron ore) for rca ma degree show 2009
-begins with the fantasy of self-sufficiency, could you make it on a desert island
-(comes from a section hitchhikers guide to the galaxy)
+Made a toaster from scratch (eg. iron ore) for his RCA MA degree show in 2009 (and he's still talking about it)
+Begins with the fantasy of self-sufficiency, could you make it on a desert island.
 
-disassembled the toaster (what a good image)
-counted 400 bits
-started simplifying and substituting stuff for simpler materials (5 materials)
+![Toaster parts](/notes/assets/thomas-twaites-toaster.jpg)
+Disassembled the toaster (what a good image)
 
-how do you make steel
-talk to a man at the royal college of mines (seems excessive doesn't wikipedia say how to make steel)
-phoned up the nearest iron mine to london can i come down and get some iron ore to make a toaster? can i speak to john please - oh hes underground!
-got philosophical in the mines
+- Counted 400 different parts
+- Started simplifying and substituting stuff for simpler materials, eventually boiled down to 5 materials: Steel, copper, plastic, mica, nickel
 
-dragged a suitcase full of iron ore back to london, looked for a recipe to make metal from rock
-went back to the 16th century books to understand how to make a furnace with really basic technology
+## How do you make steel?
+
+You talk to a man at the Royal College of Mines
+phoned up the nearest iron mine to london, can I come down and get some iron ore to make a toaster? Got philosophical in the mines
+
+Dragged a suitcase full of iron ore back to London, looked for a recipe to make metal from rock.
+Eventuall went back to the 16th century books to understand how to make a furnace with really basic technology
 
 when i callled up the iron mine i didnt know i would give a talk later, show how important it is to document everything, the project relly became about the story 
 melted the iron cake the microwave, went through 4
@@ -49,7 +50,7 @@ the point was to create an object to create debate, critical design, speculative
 sort of the opposite of industrial design
 how do we move to a real sustainable worl where we don't go live in a cave
 
-## more rescent projects!
+## More recent projects!
 
 south korea
 virtua; reality documentary from the future about the present
@@ -92,12 +93,15 @@ got this guy to turn off his speec ability
 next thing was how do I make my body into that of a goat
 
 ![slide 1](/notes/assets/thomas-twaites-1.jpg)
+![slide 2](/notes/assets/thomas-twaites-2.jpg)
 
 
 
 royal vetenary college dude who worked on big dog walking robot
+![slide 3](/notes/assets/thomas-twaites-3.jpg)
 humans and all sorts of creatures share anatomy bc we evolved from the same ancestor
 weird to see animals go from recongnizable animal to recognixable cut of meat
+![slide 3](/notes/assets/thomas-twaites-4.jpg)
 
 ## GUTS
 goats can live off grass bc they have an extra stomach. made a prosthetic extra stomach, silicone bag that had goat bacteria in it, chew grass, have bacteria digest it, then eat what coems out of that
