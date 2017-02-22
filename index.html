@@ -16,19 +16,19 @@ layout: default
   var radius = 0;
   var el = document.createElement('canvas');
   document.body.appendChild(el);
-var getRandomInt = function(min, max) {
+  var getRandomInt = function (min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
-}  
-var shufflePen = function(){
-  c.fillStyle = randomColor();
-  radius = getRandomInt(50,100);
-}
-  var getRelativeX = function(x){
-    return x - el.offsetLeft; 
+  }
+  var shufflePen = function () {
+    c.fillStyle = randomColor();
+    radius = getRandomInt(50, 100);
+  }
+  var getRelativeX = function (x) {
+    return x - el.offsetLeft;
   };
-  
-  var getRelativeY = function(y){
-    return y - el.offsetTop; 
+
+  var getRelativeY = function (y) {
+    return y - el.offsetTop;
   };
   el.width = window.innerWidth * .9;
   el.height = window.innerHeight * .9;
