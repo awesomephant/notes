@@ -9,6 +9,10 @@ website: ""
 thumb: ""
 ---
 
+- Tuur van Baalen
+- Brett Scott
+- Helen Hester
+
 Important to have a conversation about automation - tons of jobs will be replaced by machine learning etc. 
 
 Myths:
@@ -99,3 +103,40 @@ So now we're connecting computers eg the interent. You've made a **Meta Computer
 
 Algorobotic systems
 eg Uber, algorithmic system with inputs, datacenter and at the end an actual person in a car
+
+## Domestic automation
+gender and labour, gender as a kind of labour, social reporductio eg reporductive labour. Nurturing the next generation of workers. Thinking of the home as another waged and unwaged workplace. Think about the kinds of work that happen in the home.
+
+Women race and class
+
+scoial structures are reinforced by the primitiveness of home labour, hasn't been much affected by automation ect. Domestic labour saving devices do not actually have a great track record when it comes to saving time.
+
+why has time spent not gone down? As appliances became a thing, standards shot up. stuff had to be cleaner, education more intense to give kids an advantage, food supposed to be much more complex. Applicances ma y be used to increase output rathr that reducing the burdnen on indiviual workers.
+
+banana slicer
+slushy machines
+roomba
+
+looks fancy but creates additional maintainance eg cleaning the filter etc, replacement parts new batteries. It's taking up more time somewhere else that what it's saving in one particular area.
+
+the maret is interested in selling us stuff, not changing traditional family labour
+
+Jibo, the first social robot for the home
+seriously
+GOing back to 1960s vision of the future
+
+technology is shown as seperate from traditional Domestic family life
+
+it's not all bad eg assistive technology, contraceptive pill, bicycle etc
+a lot of domestic applicances are an afterthought from military, commercial use, eg the microwave, fridge
+
+considerations have to go beyond jsut the smart home into what family structure we live in, forms of relationships, forms of organisations we work in
+
+xenofeminist Manifesto
+
+Feminists in the 20th century already imagined how the built environment could be changed to reduce the amount of labour required. Also bigger groups of people as opposed to traditional family sprads work around and makes shopping etc more efficient 
+
+#qs
+how do you think about hacking 
+
+http://re-tool.tumblr.com/tagged/automation
