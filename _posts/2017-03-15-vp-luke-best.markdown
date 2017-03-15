@@ -4,14 +4,13 @@ title: "Luke Best"
 date: 2017-03-15 10:30:00
 teacher: "Luke Best"
 unit: 'VP'
-abstract: ""
+abstract: "Luke is a London-based illustrator and part of Peepshow Collective. Does all sorts of amazing editorial, animation and publishing work."
 website: "http://www.lukebest.com/"
-thumb: ""
+thumb: "http://www.maxkoehler.com/notes/assets/lukebest-3.jpg"
 ---
 
 [Twitter](https://twitter.com/lukejethrobest?lang=en)
 
-- London illustrator, part of Peepshow Collective
 - Got an agent after six years of working
 - MA at the RCA
 Did a spacesuit weirdo project
