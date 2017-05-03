@@ -3,8 +3,7 @@
   text-decoration: none;
 }
 .site-header {
-  padding: 2rem 5%;
-  border-bottom: 1px solid $black;
+  padding: 1rem 5%;
   margin-bottom: 2rem;
 }
 
@@ -64,20 +63,21 @@ canvas {
 
 .post-container {
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
   @include bp(m){
     flex-direction: row;
+    justify-content: flex-start;
   }
-  
   padding: 2rem 5%;
-
   a {
     color: gray;
   }
 }
 
 .post-title {
-  font-weight: normal
+  font-weight: 200;
+  font-size: 2rem;
+  max-width: 50rem;
 }
 
 .post-abstract {
@@ -86,12 +86,16 @@ canvas {
   max-width: 40em;
   line-height: 1.5;
 }
+.post-header {
+}
 
 .post-meta {
   display: block;
   flex-basis: 20%;
   @include bp(m){
     padding-right: 1rem;
+    max-width: 20rem;
+    padding-top: 20vh;
   }
   li {
     display: block;
@@ -102,10 +106,6 @@ canvas {
 
 .post-unit {
   color: rgba($black, .6);
-}
-.post-header {
-  padding: 2rem 5%;
-  border-bottom: 1px solid rgb(220,220,220);
 }
 
 .post-content {
