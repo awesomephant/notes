@@ -28,3 +28,15 @@ thumb: ""
 - Midterm review feb 2018
 - WIP show: march 2018
 - Deadline 1st june 2018
+
+Mondays/Tuesdays are teaching days
+Wednesdays/Fridays Unit 9 Talks (Dissertation)
+Thursday Unit 9 / Unit 10 Tutorial
+
+AB comes in Thursday possibly
+
+## next week monday (oct 9)
+bring in the 101 images
+pick 12 images, make 6 a3 double sided prints
+- glue, tape, knife etc
+- newspapers w/ "large interesting images"
