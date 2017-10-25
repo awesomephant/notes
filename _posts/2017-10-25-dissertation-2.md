@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIssertation Talk 2"
+title: "Dissertation Talk 2"
 date: 2017-10-25 12:00:00
 teacher: "Sheena Calvert"
 unit: '9'
