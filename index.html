@@ -1,17 +1,21 @@
 ---
 layout: default
 ---
-<ul class="post-list">
+<div id='js-post-list' class="post-list">
+    <input type="text" class="fuzzy-search" placeholder='Search "Dissertation"' />
+    <ul class='list'>
   {% for post in site.posts %}
   <li class='post-list-post'>
-    <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
-          </a>
-    <date class="post-meta-date">{{ post.date | date: "%b %-d, %Y" }}</date>
+    <div class='post-list-meta'>
+      <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-list-unit">Unit {{ post.unit }}</span>
+    </div>
+    <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
   </li>
   {% endfor %}
 </ul>
-
+</div>
 <script>
   var radius = 0;
   var el = document.createElement('canvas');
@@ -36,11 +40,16 @@ layout: default
   shufflePen();
   document.addEventListener('mousemove', function (e) {
     c.beginPath();
-    console.log(getRelativeX(e.pageX));
     c.arc(getRelativeX(e.pageX) - radius / 2, getRelativeY(e.pageY) - radius / 2, radius, 0, 2 * Math.PI, false);
     c.fill();
   })
 
   document.addEventListener('click', shufflePen)
+
+  var options = {
+    valueNames: [ 'post-list-unit', 'post-list-link', 'post-list-date' ]
+};
+var hackerList = new List('js-post-list', options);
+
 
 </script>

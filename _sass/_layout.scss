@@ -7,12 +7,28 @@
   margin-bottom: 2rem;
 }
 
-.post-meta-date {
-  display: block;
-  flex-basis: 30%;
-  text-align: right;
-  color: gray;
+.post-list-meta {
   font-size: .9rem;
+  color: gray;
+}
+
+.post-list-date {
+  margin-right: 1rem;
+}
+
+.fuzzy-search {
+  column-span: all;
+  display: block;
+  width: 100%;
+  padding: .8rem;
+  border: 1px solid gray;
+  border-radius: 3px;
+  margin-bottom: 1.5rem;
+  &:focus {
+    box-shadow: none;
+    outline: none;
+    border-color: $black;
+  }
 }
 
 .post-list {
@@ -22,12 +38,14 @@
   column-count: 2;
   column-gap: 2rem;
   max-width: 60rem;
- }
+  .list {
+    list-style: none;
+  }
+}
  
  .post-list-post {
-  margin-bottom: .5rem;
-  display: flex;
-  justify-content: space-between;
+  margin-bottom: 1rem;
+  display: inline-block;
   width: 100%;
    h2 {
      font-weight: normal
@@ -37,7 +55,7 @@
  .post-list-link {
    color: $black;
    text-decoration: none;
-   font-size: 1rem;
+   font-size: 1.2rem;
    &:hover, &:focus {
      text-decoration: underline;
    }
