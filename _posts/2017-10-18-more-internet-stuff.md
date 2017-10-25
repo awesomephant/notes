@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Looking at Internet Stuff (Places and Spaces)"
-date: 2017-10-11 11:00:00
+date: 2017-10-18 11:00:00
 teacher: "Tracy Waller"
 unit: '10'
 abstract: ""
