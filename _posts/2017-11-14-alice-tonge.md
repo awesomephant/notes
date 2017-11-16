@@ -2,11 +2,11 @@
 layout: post
 title: "Alice Tonge"
 date: 2017-11-07 15:30:00
-teacher: ""
+teacher: "Alice Tonge"
 unit: 'LCC Pioneers'
 abstract: "Alice is the head of 4creative, the in-house creative agency of Channel 4"
-website: ""
-thumb: ""
+website: "http://www.4creative.co.uk"
+thumb: "http://www.maxkoehler.com/notes/assets/channel4-simpsons.jpg"
 ---
 
 [4Creative Website](http://www.4creative.co.uk/)
