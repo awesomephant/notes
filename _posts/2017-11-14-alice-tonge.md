@@ -57,4 +57,7 @@ For the rebrand they kept the puzzle parts of the logo and changed scale, number
 
 The blocks become a graphic device which works in all sorts of contexts, with type on top of it etc. But it always keeps this tangible 3d look, which is great for motion graphics. Looks like they got [DBGL to do the execution](https://dblg.co.uk/projects/channel-4/).
 
+Here's a smart thing they did for The Simpsons:
+![Simpsons](/notes/assets/channel4-simpsons.jpg)
+
 [Neville Brody did the two new typefaces](http://brody-associates.com/projects/channel-4), Chadwick and Horseferry (which is their street address). One display, one text face.
