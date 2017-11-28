@@ -6,7 +6,7 @@ teacher: "Natalie Kane"
 unit: 'LCC Pioneers'
 abstract: "Natalie Kane is a curator, writer and researcher based in London. She is Curator of Digital Design at the V&A."
 website: "http://ndkane.com/"
-thumb: ""
+thumb: "http://www.maxkoehler.com/notes/assets/kane-manning.jpg"
 ---
 
 [Haunted machines](http://www.hauntedmachines.com/) is a part of the [Future Everything Festival](http://futureeverything.org/) which happens every year.
