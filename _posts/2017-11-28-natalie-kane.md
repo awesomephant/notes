@@ -9,10 +9,6 @@ website: "http://ndkane.com/"
 thumb: ""
 ---
 
-Future Everything before the v and a
-kasia milga, positively charged
-making art and communication about new stuff, ie smart city, new energy and stuff
-
 [Haunted machines](http://www.hauntedmachines.com/) is a part of the [Future Everything Festival](http://futureeverything.org/) which happens every year.
 
 Why do we use magical terminology, gurus, deamons etc. to talk about technology
