@@ -21,7 +21,7 @@ People trying to rationalise weird tech experiences (ie. targeted ads) with fabl
 
 [Haunted machines and wicked problems](http://impakt.nl/festival/impakt-festival-2017-haunted-machines-wicked-problems/)
 
-![All of this belongs to you](/assets/kane-all-of-this-belongs-to-you.jpg)
+![All of this belongs to you](/notes/assets/kane-all-of-this-belongs-to-you.jpg)
 [All of this belongs to you](http://www.vam.ac.uk/content/exhibitions/all-of-this-belongs-to-you/) at the V&A
 
 >At a time when Britain was engaged in the democratic process of an election, the V&A examined the role of public institutions in contemporary life and what it means to be responsible for a national collection
@@ -42,7 +42,7 @@ Trying to define what digital design is (on some level all design today is netwo
 
 ### WeChat
 
-![WeChat](/assets/kane-wechat.jpg)
+![WeChat](/notes/assets/kane-wechat.jpg)
 
 WeChat is interesting because all these other services fold into it (you can do doctors appointments through it, pay for stuff, order food), plus it's good to see stuff that's important in otehr cultures.
 
@@ -64,15 +64,15 @@ Really contentious objects, people throw them off bridges, snap them off with pl
 3d printed handlebars
 conversation about 3d printing, I guess the cyclist guy go sued 
 
-![Liberator Gun](/assets/kane-gun.jpg)
+![Liberator Gun](/notes/assets/kane-gun.jpg)
 **The Liberator** is the first 3d-printed gun. The V&A printed one, which was a huge legal issue because you're not even allowed to have the file on your computer or send it over the internet, or print the actual gun. The actual collection item is the 3d file, the physical object is just an expression of it. [Here's the collection record](http://collections.vam.ac.uk/item/O1278316/the-liberator-3d-printed-hand-digits2widgets/)
 
 **Amazon Terminal** is a [computer that Amazon warehouse workers wear on their arm](http://collections.vam.ac.uk/item/O1289717/wt41n0-wearable-terminal-motorola-solutions/). It tells you where to walk to do things as quickly as possible, measures if you walk quick enough. Example of people being an extension of a machine. 
 
-![Louboutin Nudes](/assets/kane-shoes.jpg)
+![Louboutin Nudes](/notes/assets/kane-shoes.jpg)
 **Louboutin Nudes** that come in different versions for different skin tones (before "skintone" mean white). [Collection entry](http://collections.vam.ac.uk/item/O1295130/point-of-purchase-christian-louboutin/)
 
-![Louboutin Nudes](/assets/kane-lashes.jpg)
+![Louboutin Nudes](/notes/assets/kane-lashes.jpg)
 **Katy Perry Fake Eyelashes** are marketed as handmade, artisinal - they are, but by people making 15p a day. [Collection record](http://collections.vam.ac.uk/item/O1278287/katy-perry-lashes-false-eyelashes-perry-katy/)
 
 **Architectural Spikes** Are designed to keep homeless people away. People respond to this by filling them up with concrete etc. [Collection Record](http://collections.vam.ac.uk/item/O1296001/architectural-spikes-kent-stainless-ltd/)
@@ -100,7 +100,7 @@ Emulation is okay sometimes, ie. run Windows 95 in a VM to let people use old so
 
 [Webrecorder](https://webrecorder.io/) allows you to record online interactions.
 
-![Chelsea Manning](/assets/kane-manning.jpg) 
+![Chelsea Manning](/notes/assets/kane-manning.jpg) 
 3d portraits of Chelsea Manning generated from DNA (DNA Phenotyping). The margin of error here is massive, way to talk about teh objectivity of data.
 
 This will be part of [The Future Starts Here](https://www.vam.ac.uk/exhibitions/the-future-starts-here) in 2018.
