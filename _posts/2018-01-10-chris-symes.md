@@ -4,9 +4,9 @@ title: "Film Producer Chris Symes"
 date: 2018-01-10 10:30:00
 teacher: "Chris Symes"
 unit: 'Camberwell VP'
-abstract: ""
+abstract: "Chris Symes is a film producer who's worked on Alien vs Predator, Hellboy and Black Sails."
 website: ""
-thumb: ""
+thumb: "http://www.maxkoehler.com/notes/assets/black-sails-set.jpg"
 ---
 
 ## How do you become a producer?
