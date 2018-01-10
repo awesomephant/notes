@@ -43,13 +43,17 @@ TV can be more challenging than movies: You may have 10 scripts, different direc
 ## Black Sails: Building Nassau
 
 [Black Sails on IMDB](http://www.imdb.com/title/tt2375692/)
-<iframe width="760" height="415" src="https://www.youtube.com/embed/gyJW2Xrf6EI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Prequel to Treasure Island, with real pirates from history in it. Pirate shows are set on the sea -  The first rule of shooting sea-based shows is to not shoot them on the sea. So instead you build Nassau 1720 so you can shoot physical interaction between boats, water and people. Decided to do thing in Capetown - close to a real beach, good weather, local production people - you only fly in the people you need. (Presumably also not much regulation). Built a whole beach with sand, fake palm trees etc.
+
+<iframe width="760" height="415" src="https://www.youtube.com/embed/gyJW2Xrf6EI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 If you look out to the sea, it costs money because you have to do set extensions. The job of the producer is to stop the director from doing that too often.
 
 We also needed to build ships. They built a "full ship" (on wheels) and a "half ship" (which floated). The one ship was repainted in different colours throughout the show to make it look like they had more ships. The mast is a set extension.
+
+![Black Sails pirate ships](/notes/assets/black-sails-set.jpg)
 
 [Wolf Kroeger](http://www.imdb.com/name/nm0471859/) was the production designer.
 
