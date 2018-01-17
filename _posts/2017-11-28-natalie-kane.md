@@ -2,7 +2,7 @@
 layout: post
 title: "Natalie Kane"
 date: 2017-11-28 18:00:00
-teacher: "Natalie Kane"
+teacher: "Digital Design Curator Natalie Kane"
 unit: 'LCC Pioneers'
 abstract: "Natalie Kane is a curator, writer and researcher based in London. She is Curator of Digital Design at the V&A."
 website: "http://ndkane.com/"
