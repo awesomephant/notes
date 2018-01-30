@@ -14,7 +14,7 @@ thumb: ""
 
 Graduated from GD in 1999
 
-3rd year project on ultra-orthodix jew in north london
+3rd year project on ultra-orthodox jews in north london
 
 Eventually got picked up by the Guardian
 First Guardian front page "Peace offer in fire dispute"
