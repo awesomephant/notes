@@ -9,10 +9,6 @@ website: "http://www.hamishmuir.com/"
 thumb: ""
 ---
 
-TODO background
-
-teaches at lcc
-
 Octavo is a self published journal 
 started in 1985, interested in modernist syuff
 started an office called 8vo, to make work all about type
@@ -26,14 +22,14 @@ boymans can beunigen totterda  graphic identity
 
 octavo hournal ran from jan 86 to 7 90
 
-the idea was to only ever publish 8 issues
-each one woulf be the same format
-all set in the same typeface (unica)
-300gsm cover witha trace wrap around it
-obv octavo format
-16 pages
-just red, black and greys
-published every 6 months
+- The idea was to only ever publish 8 issues
+- Each one woulf be the same format
+- All set in the same typeface (unica)
+- 300gsm cover witha trace wrap around it
+- Octavo format (obviously)
+- 16 pages
+- Just red, black and greys
+- Published every 6 months
 
 
 They were all about things you could do with printing processes
@@ -45,7 +41,8 @@ Article on the guy who first specified helvetica in london in 58
 Hans Rudolph lutz
 letterpress halftone blow ups
 
-3rd issue is printed lanscape
+## Issue 3
+Printed lanscape
 columnbia garphic design lecture series posters
 villie something
 
@@ -53,7 +50,7 @@ Used spot colours to recreate the original posters
 
 The colour scheme for each issue came out of the content
 
-Issue 4
+## Issue 4
 Wolfgang Weingart
 How can one make swiss typography
 lectures he gave in america that hand't been published before
@@ -63,7 +60,7 @@ again huge production value, special grays blacks varnish etc
 Graphic design used yo be more like architecture, you dhad to talk to printers, typesetters all the time
 Unlike now where its just you and your computer
 
-5th issue aka the lowercase issue
+## Issue 5 aka the lowercase issue
 lowercase use as a way of anti authoritarianism in germany, holland in the 20s
 kinross
 wim crouwel: lowercase in the futv lowlands
@@ -75,7 +72,7 @@ design magazine critique of issue 6
 This was the first issue to embrace stuff that could only be done digitally
 Every spread was 24 columns
 
-issue 7
+## Issue 7
 Trying to represent iconic early graphic desing work in a new context
 They had access to original material, dropped them into a more realistic envirnment to show that the people making the stuff weren't thinking they were the best designer ever making history
 
@@ -95,12 +92,11 @@ that would be marked up, sent to the typesetter, who would return the galley pri
 then youd cut  that up and paste onto  a grid
 send this all back and forth via bikemessenger to the typesetter
 
-ocatvo 8 1992
-theyd run out of money
-the cd was the new big thing
-microsoft encarta was going around
-fulll of californa type design, isonc etc
-They were interested in what multimedia could mean for design
+## Issue 8 (1992)
+
+- They'd run out of money and the CD was the new big thing
+- microsoft encarta was going around
+- They were interested in what multimedia could mean for design
 collectors had all these 7 issue waiting for the 8th, and they got this cd
 256 colours, built in macromedia director
 ytpography as interface
@@ -109,7 +105,7 @@ reading on screen was bad then, so they got voiceover bbc people to read out mos
 
 it was bilt for mac 7.2, 18 months later when mac 9 came out it stopped working
 
-octavo redux
+## Octavo Redux
 is a book that they did 2 years ago that recods at full scale the original issues, the type soecifications, all the design artifacts
 published with unit ediyions
 produved via kickstarter
