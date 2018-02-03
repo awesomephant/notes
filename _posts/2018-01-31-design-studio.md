@@ -9,16 +9,16 @@ website: "https://www.wearedesignstudio.com/"
 thumb: ""
 ---
 
-Set up 9 years ago, now at 60 staff in London, San Francisco and Sydney doing huge branding and digitial design projects.
+Set up 9 years ago, now at 60 staff in London, San Francisco and Sydney doing huge branding and digital design projects.
 
-- Premier League rebranding
-- Airbnb logo
-- Deliveroo branding
-- treatwell branding
-- logitech rebranding
+- [Premier League Rebrand](https://design.studio/work/premier-league-rebrand)
+- [Airbnb Branding](https://design.studio/work/airbnb)
+- [Deliveroo Branding](https://design.studio/work/deliveroo)
+- [Treatwell Branding](https://design.studio/work/treatwell)
+- [Logitech Branding](https://design.studio/work/logitech)
 
 ## Design-led thinking
-Brands are now in a two way conversation with the cosumer blah blah blah
+Brands are now in a two way conversation with the cosumer, unlike maybe 10 years ago when you could just put out content in a one-sided way.
 
 - Things like Siri, Google voice literally talking to you
 - Airbnb branding where people are "invited to make their own mark"
@@ -42,17 +42,20 @@ Branding is ultimately about handing something off to another team to work with,
 [Beat Website](https://taxibeat.com/)
 [Beat Instagram](https://www.instagram.com/thebeatapp/)
 
-A Taxi app in athens, mainly in south america.
-Looked at public transportation: It used to be these city-specific modes of transport (yellow cabs, red buses)
+A Taxi app based in Athens, mainly active in South America.
+Looked at public transportation: It used to be these city-specific modes of transport (yellow cabs, red buses), now it's all these international tech companies.
 
 These people wanted to be the "good guys" in the industry (I'm assuming as opposed to Uber).
 
-The key idea here is *open cities*
+The key idea here is *open cities*, again coming from research.
+
 These branding exploration films are all fonund footage. 
 
-Looked at symbols that cities use to communicate with people. Created an icon set for Beat
+Looked at symbols that cities use to communicate with people. Created a custom icon set for Beat.
+
 Started out using the icons along copy, then replacing some of the words with icons, getting more specific. Combining icons with photography, illustration.
-Gamification: collect miles by riding around
+
+Gamification: Collect miles by riding around, get rewards.
 
 ## Premier League Rebrand
 One of the most-watched leagues in the world, started out like this:
@@ -89,7 +92,9 @@ Turns out the reason all these brands are having typefaces designed is to save o
 
 The general feeling seems to be that DesignStudio work for _the man_, which doesn't bring them a lot of sympathy among art students - we're on the receiving end of the gig economy and rising rents created by "loved brands" like Deliveroo and Airbnb.
 
-The way they talk about "engaging with consumers" and "making positive change in the world" with "likeminded companies" seems disingenous to a lot of people. I'd argue that "telling positive stories" (as they talk about in the Premier League case study) is a fancy way of "lying to people".
+In the context of the Beat case study, they talk about how "red buses and yellow cabs" are being replaced by tech companies as if that's a natural development. Of course, the reason those older forms of public transport are struggling is because they are heavily regulated and rely on unionised workers, while [venture-funded companies](https://www.crunchbase.com/organization/taxibeat) like Beat and Uber do everything in their power to [avoid regulation](https://www.theguardian.com/technology/2017/mar/03/uber-secret-program-greyball-resignation-ed-baker) and [keep workers from organising](http://www.independent.co.uk/news/business/news/uber-driver-threatened-by-senior-manager-for-establishing-union-a6720146.html).
+
+The way they talk about "engaging with consumers" and "making positive change in the world" with "likeminded companies" seems disingenous to a lot of people. I'd argue that "telling positive stories" (as they talk about in the Premier League case study) sounds very similar to "lying to people".
 
 At least they're not making ads to get poor kids to join the army [like these assholes](http://www.karmarama.com/work/this-is-belonging/).
 
