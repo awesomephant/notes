@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Careesrs and Employability 2: Reflecting and Planning"
+title: "Careers and Employability 2: Reflecting and Planning"
 date: 2017-01-20 10:00:00
 teacher: "Hannah Breslin"
 unit: 'PPD'
@@ -12,7 +12,7 @@ thumb: ""
 
 Drew a "lifeline" which is supposed to help you see patterns and stuff in your life. Helps you understand what motivates ou and helps to make informed carreer descisions
 
-Identify what motivates oyou
+Identify what motivates you
 
 Consider what attributes you have developed in all areas of life
 
