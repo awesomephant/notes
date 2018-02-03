@@ -26,10 +26,11 @@ Brands are now in a two way conversation with the cosumer, unlike maybe 10 years
 
 ## Depop Rebrand
 
-[Depop Case Study](https://www.wearedesignstudio.com/works/depop/)
-[Depop Website](https://www.depop.com/) (very Instagram)
-[45 Million in Venture Capital](https://www.crunchbase.com/organization/depop)
-An online clithing and other stuff selling place (like an etsy type thing)
+An online clothing and other stuff selling place (like an Etsy type thing).
+
+- [Depop Case Study](https://www.wearedesignstudio.com/works/depop/)
+- [Depop Website](https://www.depop.com/)
+- [45 Million in venture capital](https://www.crunchbase.com/organization/depop)
 
 ![Depop rebrand](/notes/assets/Depop_Press_03.jpg)
 
@@ -39,8 +40,11 @@ Branding is ultimately about handing something off to another team to work with,
 
 ## Beat Rebrand
 
-[Beat Website](https://taxibeat.com/)
-[Beat Instagram](https://www.instagram.com/thebeatapp/)
+- [Beat Website](https://taxibeat.com/)
+- [Beat Instagram](https://www.instagram.com/thebeatapp/)
+- [DesignWeek Writeup on the project](https://www.designweek.co.uk/issues/7-13-august-2017/designstudios-new-identity-beat-looks-break-language-barriers/)
+
+![Beat Press Image](/notes/assets/Beat_Press_Image_02.jpg)
 
 A Taxi app based in Athens, mainly active in South America.
 Looked at public transportation: It used to be these city-specific modes of transport (yellow cabs, red buses), now it's all these international tech companies.
@@ -49,7 +53,7 @@ These people wanted to be the "good guys" in the industry (I'm assuming as oppos
 
 The key idea here is *open cities*, again coming from research.
 
-These branding exploration films are all fonund footage. 
+These branding exploration films are all found footage. 
 
 Looked at symbols that cities use to communicate with people. Created a custom icon set for Beat.
 
@@ -84,15 +88,15 @@ Eyetracking analysis of the logo: People are looking at the type, the logo, but 
 
 Did broadcast graphics derived from elements of the logo, Image treatments (single colour print), lockups, colourways, variations of the proposition ("Antonio makes it")
 
-Turns out the reason all these brands are having typefaces designed is to save on typeface subscription fees
+DesignStudio worked with [Monotype](http://www.monotype.com/resources/case-studies/premier-league-a-brand-identity-that-works-hard-plays-hard/) to design a custom typeface for Premier League. A major reason big companies are having custom typefaces designed is to save on typeface subscription fees.
 
 ---
 
 ## Some notes from post-talk discussions
 
-The general feeling seems to be that DesignStudio work for _the man_, which doesn't bring them a lot of sympathy among art students - we're on the receiving end of the gig economy and rising rents created by "loved brands" like Deliveroo and Airbnb.
+The general feeling seems to be that DesignStudio work for _the man_, which doesn't bring them a lot of sympathy among art students - we're on the receiving end of the gig economy and rising rents created by "loved brands" like Deliveroo and Airbnb that DesignStudio work for.
 
-In the context of the Beat case study, they talk about how "red buses and yellow cabs" are being replaced by tech companies as if that's a natural development. Of course, the reason those older forms of public transport are struggling is because they are heavily regulated and rely on unionised workers, while [venture-funded companies](https://www.crunchbase.com/organization/taxibeat) like Beat and Uber do everything in their power to [avoid regulation](https://www.theguardian.com/technology/2017/mar/03/uber-secret-program-greyball-resignation-ed-baker) and [keep workers from organising](http://www.independent.co.uk/news/business/news/uber-driver-threatened-by-senior-manager-for-establishing-union-a6720146.html).
+In the context of the Beat case study, they talk about how "red buses and yellow cabs" are being replaced by tech companies as if that's a natural development. Of course, the reason those older forms of public transport are struggling is because they are well-regulated and rely on unionised workers, while [venture-funded companies](https://www.crunchbase.com/organization/taxibeat) like Beat and Uber do everything in their power to [avoid regulation](https://www.theguardian.com/technology/2017/mar/03/uber-secret-program-greyball-resignation-ed-baker) and [keep workers from organising](http://www.independent.co.uk/news/business/news/uber-driver-threatened-by-senior-manager-for-establishing-union-a6720146.html).
 
 The way they talk about "engaging with consumers" and "making positive change in the world" with "likeminded companies" seems disingenous to a lot of people. I'd argue that "telling positive stories" (as they talk about in the Premier League case study) sounds very similar to "lying to people".
 
