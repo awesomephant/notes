@@ -6,10 +6,9 @@ layout: default
     <ul class='list'>
   {% for post in site.posts %}
   <li class='post-list-post'>
-    <div class='post-list-meta'>
       <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <span class="post-list-unit">Unit {{ post.unit }}</span>
-    </div>
+      <span class="post-list-unit">{{ post.unit }}</span>
+      <span class="post-list-teacher">{{ post.teacher }}</span>
     <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
   </li>
