@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
+
+{% assign counter = 1 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}
+
 <div id='js-post-list' class="post-list">
-    <input type="text" class="fuzzy-search" placeholder='Search "Dissertation"' />
+    <input type="text" class="fuzzy-search" placeholder='Search {{ counter }} lecture notes' />
     <ul class='list'>
   {% for post in site.posts %}
   <li class='post-list-post'>
