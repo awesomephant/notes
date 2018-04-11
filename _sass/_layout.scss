@@ -100,8 +100,9 @@ canvas {
 .post-container {
     display: flex;
     flex-direction: column;
-    font-size: 1.1rem;
+    font-size: 1rem;
     @include bp(m) {
+        font-size: 1.1rem;
         flex-direction: row;
         justify-content: flex-start;
     }
@@ -114,27 +115,28 @@ canvas {
 
 .post-title {
     font-weight: 600;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     max-width: 50rem;
+    @include bp(m){
+        font-size: 1.6rem;
+    }
 }
 
 .post-abstract {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     padding-bottom: 1rem;
     max-width: 40em;
     line-height: 1.4;
-}
-
-.post-header {
+    @include bp(m){
+        font-size: 1.6rem;
+    }
 }
 
 .post-meta {
     display: block;
     flex-basis: 20%;
     margin-bottom: 2rem;
-    column-count: 2;
     @include bp(m) {
-        column-count: 1;
         padding-right: 1rem;
         max-width: 20rem;
     }
@@ -196,7 +198,7 @@ canvas {
 }
 
 img,
-iframe {
+iframe, video {
     display: block;
     max-width: 100%;
 }
