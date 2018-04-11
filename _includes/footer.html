@@ -1,5 +1,5 @@
 <footer class="site-footer">
-<p>Copyright (c) {{site.time | date: '%Y'}} Max Kohler All Rights Reserved.</p>
+<p>© {{site.time | date: '%Y'}} <a href="http://www.maxkoehler.com">Max Kohler</a></p>
 <p><a href="http://www.twitter.com/awesomephant">Follow me on the Twitters</a></p>
 </footer>
 
@@ -11,5 +11,28 @@
 
   ga('create', 'UA-42590037-4', 'auto');
   ga('send', 'pageview');
+
+document.addEventListener('DOMContentLoaded', function(){
+		var header = document.querySelector('.site-header');
+		header.style.color = randomColor();
+		let headlines = document.querySelectorAll('.post-content h2[id]');
+		console.log(headlines)
+		for (let i = 0; i < headlines.length; i++){
+			let link = document.createElement('a')
+			link.setAttribute('href', '#' + headlines[i].id)
+			link.innerHTML = '#'
+			link.classList.add('post-jumplink')
+			console.log(link)
+			headlines[i].appendChild(link)
+		}
+		
+		let paragraphs = document.querySelectorAll('.post-content p');
+		for (let i = 0; i < paragraphs.length; i++){
+			let image = paragraphs[i].querySelector('img, video');
+			if (image){
+				paragraphs[i].classList.add('hasimage')
+			}
+		}
+	}, false);
 
 </script>
