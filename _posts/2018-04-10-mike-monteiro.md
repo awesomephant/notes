@@ -4,9 +4,9 @@ title: "How To Fight Fascism"
 date: 2018-04-10 18:30:00
 teacher: "Mike Monteiro"
 unit: 'Design Museum'
-abstract: "Mike is the co-founder of Mule Design. He's a prolific writer and speaker about design responsibility."
+abstract: "Mike is the co-founder of Mule Design. This talk is about designers' responsibility for the things they put in the world."
 website: "https://muledesign.com/speaking/mike-monteiro"
-thumb: ""
+thumb: "http://www.maxkoehler.com/notes/assets/monteiro-dont-follow-orders.jpg"
 ---
 
 (This talk is part of the [Hope to Nope Show](https://designmuseum.org/exhibitions/hope-to-nope-graphics-and-politics-2008-18)). Video of the [same talk in Stockholm](https://www.youtube.com/watch?v=vW2moFk074Q&feature=youtu.be)
