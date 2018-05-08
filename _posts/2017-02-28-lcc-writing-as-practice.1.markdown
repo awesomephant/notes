@@ -2,8 +2,8 @@
 layout: post
 title: "Writing as Practice"
 date: 2017-02-28 17:30:00
-teacher: "Several"
-unit: 'VP'
+teacher: "Alice Twemlow"
+unit: 'LCC VP'
 abstract: ""
 website: ""
 thumb: ""
@@ -15,7 +15,8 @@ Alice twemlow
 writing / design
 design / writing
 
-# how i engage with design as a writer
+# How I Engage With Design as a Writer
+
 srudied english literature, became more interestd with how the word is represented (easter wings) 
 emblem poemsup emoj
 Visual and verbal reinforce,emt

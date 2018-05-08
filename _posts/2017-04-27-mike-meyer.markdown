@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mike Meyer"
+title: "Sign Painter Mike Meyer"
 date: 2017-03-15 17:00:00
 teacher: "Mike Meyer"
 unit: ''

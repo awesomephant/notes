@@ -47,10 +47,14 @@
     h2 {
         font-weight: normal
     }
+    li {
+        list-style: none;
+        margin-bottom: .1em;
+    }
 }
 
 .post-list-date, .post-list-unit, .post-list-teacher {
-  flex-basis: 17%;
+  flex-basis: 25%;
   flex-grow: 2;
   font-size: .95rem;
 }

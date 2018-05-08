@@ -2,27 +2,36 @@
 layout: default
 ---
 
-{% assign counter = 1 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}
+{% assign counter = 1 %}
+{% for item in site.posts %}
+    {% unless item.published == false %}{% assign counter = counter | plus : 1 %}
+    {% endunless %}
+{% endfor %}
 
 <div id='js-post-list' class="post-list">
-    <input type="text" class="fuzzy-search" placeholder='Search {{ counter }} lecture notes' />
+    <input type="text" class="fuzzy-search" placeholder='Search {{ counter }} lecture notes'/>
     <ul class='list'>
-  {% for post in site.posts %}
-  <li class='post-list-post'>
-      <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <span class="post-list-unit">{{ post.unit }}</span>
-      <span class="post-list-teacher">{{ post.teacher }}</span>
-    <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% for post in site.posts %}
+            <li class='post-list-post'>
+                <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <span class="post-list-unit">{{ post.unit }}</span>
+                <span class="post-list-teacher">
+                    {% assign speakers = post.teacher | split:',' %}
+                    <ul>
+                        {% for speaker in speakers %}
+                            <li>{{speaker}}</li>
+                        {% endfor %}
+                    </ul>
+                </span>
+                <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
-  </li>
-  {% endfor %}
-</ul>
+            </li>
+        {% endfor %}
+    </ul>
 </div>
 <script>
-  var options = {
-    valueNames: [ 'post-list-unit', 'post-list-link', 'post-list-date', 'post-list-teacher' ]
-};
-var hackerList = new List('js-post-list', options);
-
-
+    var options = {
+        valueNames: ['post-list-unit', 'post-list-link', 'post-list-date', 'post-list-teacher']
+    };
+    var hackerList = new List('js-post-list', options);
 </script>
