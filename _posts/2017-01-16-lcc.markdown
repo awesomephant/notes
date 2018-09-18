@@ -2,13 +2,13 @@
 layout: post
 title: "Designing for the Unreal World"
 date: 2017-01-16 17:30:00
-teacher: "Thomas Twaites"
+teacher: "Thomas Thwaites"
 unit: 'VIP'
 abstract: ""
 thumb: ""
 ---
 
-Thomas twaites [website](http://www.thomasthwaites.com/)
+Thomas Thwaites [website](http://www.thomasthwaites.com/)
 
 ## [Toaster project](http://www.thetoasterproject.org/page2.htm)
 
@@ -59,7 +59,7 @@ what will people 200 yrs from now thinl about vr films
 trying to provoke a new way of looking at the modern day, looking at ourselves with fresh eyes
 film is a mixture of mundane facts, voicover gettng things wrong
 
-## design museum
+## Design museum
 designers shape onkects and places and processes to reflect the vlalues and the identity of those who use them
 
 its not that simple, theres afeedback loop between design and identity, design creates identity creates design
@@ -73,7 +73,7 @@ set top boc that wout let you wtc thingswallet that decides wht you buy
 
 it becomes hared an harder to propse a design fiction as reality moves so wuickly
 
-##  took care of this dog DREAM
+## Took care of this dog DREAM
 its better to be a human disatisfied than a pig satisfied
 
 but that sounds quite cool, take a holiday from being a human
@@ -127,7 +127,6 @@ have random firends who take photos and videos
 
 youre v keen on experts
 partly as an excuse to go in strane bits of unis where weird stuff is going on, getting access to people anf giving themm a bizarre question. It's about fantasy meeting reality, fighting cerayin bits of aestheti t-in the design world
-
 
 competition - complementarity
 disempowerment - solidarity
