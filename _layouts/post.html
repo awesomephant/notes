@@ -4,8 +4,14 @@ layout: default
 
 <main class="post-container">
 <ul class="post-meta">
-    <li><span>Date</span>{{ page.date | date: "%b %-d, %Y" }}</li>
-    <li><span>Speaker</span>{{ page.teacher }}</li>
+    <li><span>Date</span>{{ page.date | date: "%B %-d, %Y" }}</li>
+    <li><span>Speaker</span>
+      {% if page.website %}
+      <a href="{{page.website}}">{{ page.teacher }}</a>
+      {% else %}
+      {{ page.teacher }}
+      {% endif %}
+    </li>
     <li><span>Unit</span>{{ page.unit }}</li>
     {% if page.presentation %}
       <li class='post-meta-presentation'><span>Slides</span><a href="{{ page.presentation }}">Presentation</a></li>

@@ -5,17 +5,17 @@
 
 .site-header {
     padding: 1rem 5%;
-    margin-bottom: 2rem;
-    background-color: rgba(linen, .6);
+    background-color: lighten(gold, 15);
 }
 
 .fuzzy-search {
     column-span: all;
     display: block;
     width: 100%;
-    padding: .8rem;
-    border: 1px solid gray;
-    border-radius: 3px;
+    border: 0;
+    font-size: 1.5rem;
+    padding: 1.5rem 5%;
+    border-bottom: 1px solid $lightgray;
     margin-bottom: 1.5rem;
     &:focus {
         box-shadow: none;
@@ -24,9 +24,25 @@
     }
 }
 
+.post-nav {
+    padding: 0 5%;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+    border-bottom: 1px solid $lightgray;
+    a {
+        margin-right: 1em;
+        text-decoration: none;
+        color: gray;
+        font-size: 1.5rem;
+        &.active {
+            color: $black;
+        }
+    }
+}
+
+
 .post-list {
     list-style: none;
-    padding: 0 5%;
     margin-bottom: 2rem;
     .list {
         list-style: none;
@@ -37,7 +53,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    padding: .9rem 0;
+    padding: .9rem 5%;
     border-bottom: 1px solid $lightgray;
     justify-content: flex-start;
     align-items: stretch;
@@ -91,16 +107,6 @@
     text-decoration: none;
 }
 
-canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    pointer-events: none;
-    mix-blend-mode: multiply;
-}
-
 .post-container {
     display: flex;
     flex-direction: column;
@@ -111,9 +117,13 @@ canvas {
         justify-content: flex-start;
     }
     padding: 2rem 5%;
+    padding-top: 10vh;
     a {
-        color: gray;
-
+        color: darken(cornflowerblue, 10);
+        text-decoration: none;
+        &:hover, &:focus {
+            color: darken(cornflowerblue, 1);
+        }
     }
 }
 
@@ -150,10 +160,8 @@ canvas {
     }
     span {
         display: block;
-        text-transform: uppercase;
-        letter-spacing: .03em;
         margin-bottom: .2rem;
-        font-size: .8rem;
+        font-size: 1rem;
     }
 }
 
@@ -166,10 +174,7 @@ canvas {
     line-height: 1.5;
     .hasimage {
         font-size: 1rem;
-        a {
-            font-size: .9rem;
-            text-decoration: none;
-        }
+        line-height: 1.35;
         img {
             margin-bottom: .2rem;
         }
