@@ -33,14 +33,10 @@ A series of group tutorials (largely for Y2s) which is essentially career advice
 
 Elenni is acting lead tutor of GD
 
-### Year 1
-
-### Year 2
-
 ## Folks
 
-CHS (ie. Dissertation stuff)
-**GAreth polmeer**
+**Gareth polmeer**
+CHS (i.e **Critical and Historical Studies**, i.e. Dissertation stuff)
 This also has lectures on mondays
 Critical positions somethng something
 Framing Practice
