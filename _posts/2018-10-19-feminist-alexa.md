@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Designing a Feminist Alexa"
-date: 2018-10-16 18:00:00
+date: 2018-10-19 18:00:00
 teacher: "Various"
 unit: 'UAL Creative Computing Institute'
 abstract: ""
