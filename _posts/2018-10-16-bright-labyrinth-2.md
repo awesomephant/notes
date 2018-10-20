@@ -77,6 +77,8 @@ Note how whatever technology is new at the time becomes the metaphor for the bra
 John Thompson (who invented qwerty) later invented the tommy gun (aka bthe Chicago typewriter)
 A relationship between typographic literacy and power contnues 
 
+(Thompson [did not invent the qwerty keyboard](https://en.wikipedia.org/wiki/QWERTY))
+
 [poster here]
 Yes! Year xii of the fascist era (mussolini propaganda poster)
 Xanti Schawinsky (1934)
@@ -145,3 +147,7 @@ Quite often in the history of communication technology is an element of disabill
 [John Heartfield posters] who used fascist-looking images to attack fascism. One of the first to make political photo-collages.
 
 ### PostScript (in addition to typewriting) is an important step in history (I guess between the dot matrix printer and desktop publishing). Post-Script is the birthplace of digital-first graphic design away from big studios. The first home-made digital typefaces.
+
+## Questions
+
+*10 minutes of various people struggling to explain what a mechanical keyboard is*
