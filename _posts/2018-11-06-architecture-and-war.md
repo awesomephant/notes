@@ -126,6 +126,7 @@ IM Pei (1982): Fragant hill hotel Beijning
 This is vernacular, post-modernist architecture. Here nationalist symbols start to be deconstructed.
 
 ### Today
+![](/notes/assets/)
 A building in shanghai that the U.S thinks is a base if cyber attacks against the US, Unit 61398
 At the same time, Chinese architects are building in the West: Paris, Canada Absolute Towers by MAD 
 
