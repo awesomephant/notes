@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Nomaidc Illustration"
+title: "Nomadic Illustration"
 date: 2018-11-07 17:30:00
 teacher: "Catrin Morgan"
-unit: 'Practitioner is Residence Lecture 1'
+unit: 'Practitioner in Residence Lecture 1'
 abstract: ""
 website: ""
 thumb: ""
