@@ -112,7 +112,7 @@ This coincides with *danwei* urban planning & functionalist architecture. A lot 
   - Western classical style (recall Speer)
 - **Post-1945**: (recall seperation between communist, capitalist). The communist countries embrace classical nationalist architecture, while the capitalist countries embrace modernism. [Central square building in pjonjang] classical composition, but asian roofs. Similar buildings from the 1950s in Beijing. Classical composition with a chinese roof. Stalinist architecture in russia: Classical architecture mized with russian features.
 
-### In the captialist cointries:
+### In the captialist countries
 
 - South Korea: Kim-Soo-geun
   - Freedom Centre +Tower (1963)
