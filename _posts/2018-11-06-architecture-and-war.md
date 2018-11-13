@@ -6,15 +6,15 @@ teacher: "Jianfei Zhu"
 unit: 'Architecture'
 abstract: ""
 website: ""
-thumb: ""
+thumb: "/notes/assets/beijing-hotel.png"
 ---
-
-![American Institute](/notes/assets/taiwan.jpg)
-American Institute in Taiwan 2018 Building. [The Wahsington Post](https://www.washingtonpost.com/news/worldviews/wp/2018/06/18/the-u-s-government-has-opened-a-huge-new-facility-in-taiwan-and-china-isnt-happy/)
 
 [A debate is currently ongoing](https://www.washingtonpost.com/news/worldviews/wp/2018/06/18/the-u-s-government-has-opened-a-huge-new-facility-in-taiwan-and-china-isnt-happy/) about whether the Marine Corps should be stationed in the building to guard it — this would be seen as a provocation by China.
 
 This is the latest event in a rising conflict between China and the U.S. What kind of conflict are we really seeing? Is it just about about trade, or is it about a broader strategic confrontation between these two countries?
+
+![American Institute](/notes/assets/taiwan.jpg)
+American Institute in Taiwan 2018 Building. [The Wahsington Post](https://www.washingtonpost.com/news/worldviews/wp/2018/06/18/the-u-s-government-has-opened-a-huge-new-facility-in-taiwan-and-china-isnt-happy/)
 
 To answer this question, let's look at some events on the U.S side:
 
