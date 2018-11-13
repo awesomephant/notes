@@ -4,33 +4,31 @@ layout: default
 
 {% assign counter = 1 %}
 {% for item in site.posts %}
-    {% unless item.published == false %}{% assign counter = counter | plus : 1 %}
-    {% endunless %}
+{% unless item.published == false %}{% assign counter = counter | plus : 1 %}
+{% endunless %}
 {% endfor %}
 
-<nav class="post-nav">
-    <a href="#lectures" class='active'>Lectures</a>
-    <a href="#readings">Readings</a>
-</nav>
-
 <div id='js-post-list' class="post-list">
-    <input type="text" class="fuzzy-search" placeholder='Search {{ counter }} lecture notes'/>
+    <input type="text" class="fuzzy-search" placeholder='Search' />
     <ul class='list'>
         {% for post in site.posts %}
-            <li class='post-list-post'>
-                <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <span class="post-list-unit">{{ post.unit }}</span>
-                <span class="post-list-teacher">
-                    {% assign speakers = post.teacher | split:',' %}
-                    <ul>
-                        {% for speaker in speakers %}
-                            <li>{{speaker}}</li>
-                        {% endfor %}
-                    </ul>
-                </span>
-                <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <li class='post-list-post'>
+            <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            {% if post.thumb != ""%}
+            <img src="{{post.thumb}}" alt="Thumbnail" class='post-thumb'/>
+            {% endif %}
+            <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <span class="post-list-teacher">
+                {% assign speakers = post.teacher | split:',' %}
+                <ul>
+                    {% for speaker in speakers %}
+                    <li>{{speaker}}</li>
+                    {% endfor %}
+                </ul>
+            </span>
+            <span class="post-list-unit">{{ post.unit }}</span>
 
-            </li>
+        </li>
         {% endfor %}
     </ul>
 </div>

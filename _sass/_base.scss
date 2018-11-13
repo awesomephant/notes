@@ -1,27 +1,17 @@
-@mixin bp($point) {
-  @if $point == l {
-    @media (min-width: 65rem) { @content; }
-  }
-  @else if $point == m {
-    @media (min-width: 45rem) { @content; }
-  }
-  @else if $point == s {
-    @media (min-width: 35rem)  { @content; }
-  }
-}
-
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
   font-family: sans-serif;
+  a {
+    text-decoration: underline;
+    color: gray;
+  }
 }
 
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-$green: rgb(100,240,130)
