@@ -94,3 +94,17 @@ GR 1 (1970)
 
 Drawings in the 1980s use her shaky hand
 
+## Worksjop
+
+Joseph albers paper studies (catier bresson photograph)
+
+wire manipulation study (1925
+This exploits the memory of metal wire
+
+Clay and wire screen come together 
+All of this about showing what these materials can and cant do
+When the albers came to black mountain, it was the middle of the depression, hence no materials could be bought. 
+
+[Matiere by Ray Johnson 1948]
+
+At the bauhaus, these material studies are all pretty architectural - at bm, they become much more abstract and poetic.
