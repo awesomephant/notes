@@ -8,35 +8,40 @@
 
 .post-list-post {
     width: 100%;
-    text-align: center;
-    margin-bottom: 4rem;
-    margin-top: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     font-size: 1.1rem;
     font-family: "Suisse Int'l";
+    color: $black;
 }
 
 .post-thumb {
-    max-height: 55vh;
-    max-width: 60vw;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
+    flex-basis: 20%;
+    margin-right: 1rem;
     display: inline-block;
 }
 
-.post-list-date {
+.post-list-meta {
     display: block;
+    width: 20%;
+    flex-shrink: 0;
+    margin-right: 1rem;
+    li {
+        list-style: none;
+    }
 }
 
-
 .post-list-link {
-    color: $black;
     text-decoration: none;
-    font-size: 5vw;
+    font-size: 3rem;
     display: block;
+    flex-basis: 70%;
     margin: 0 auto;
-    padding: 0 2em;
     line-height: 1.1;
-
+    color: $black;
     &:hover,
     &:focus {
         text-decoration: underline;

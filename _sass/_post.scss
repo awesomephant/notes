@@ -15,6 +15,7 @@
 
 .post-container {
     display: grid;
+    background: white;
     grid-template-columns: 15rem 1fr;
     font-size: 1rem;
     @include bp(m) {
@@ -53,6 +54,7 @@
 blockquote {
     display: block;
     font-size: .9em;
+    padding-right: 2rem;
 }
 
 .post-meta {

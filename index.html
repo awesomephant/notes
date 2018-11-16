@@ -13,20 +13,19 @@ layout: default
     <ul class='list'>
         {% for post in site.posts %}
         <li class='post-list-post'>
-            <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-            {% if post.thumb != ""%}
-            <img src="{{post.thumb}}" alt="Thumbnail" class='post-thumb'/>
-            {% endif %}
+            <div class="post-list-meta">
+                <span class="post-list-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <span class="post-list-teacher">
+                    {% assign speakers = post.teacher | split:',' %}
+                    <ul>
+                        {% for speaker in speakers %}
+                        <li>{{speaker}}</li>
+                        {% endfor %}
+                    </ul>
+                </span>
+                <span class="post-list-unit">{{ post.unit }}</span>
+            </div>
             <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <span class="post-list-teacher">
-                {% assign speakers = post.teacher | split:',' %}
-                <ul>
-                    {% for speaker in speakers %}
-                    <li>{{speaker}}</li>
-                    {% endfor %}
-                </ul>
-            </span>
-            <span class="post-list-unit">{{ post.unit }}</span>
 
         </li>
         {% endfor %}
