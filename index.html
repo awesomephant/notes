@@ -9,7 +9,7 @@ layout: default
 {% endfor %}
 
 <div id='js-post-list' class="post-list">
-    <input type="text" class="fuzzy-search" placeholder='Search' />
+    <input type="text" class="fuzzy-search" placeholder='Search {{counter}} notes' />
     <ul class='list'>
         {% for post in site.posts %}
         <li class='post-list-post'>
