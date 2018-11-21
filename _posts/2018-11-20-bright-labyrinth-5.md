@@ -53,3 +53,4 @@ Polluted soundwaves: Noise pollution has all kinds of negative consequences. We'
 
 - Christian Marclay (2009): *2000 discarded records*
 - The Anechoic Chamber. John Cage discovers that there is no silence: *The high one was your nervous system in operation, the low is your blood circulation*. Cage: "Until I die, there will be sounds. And they will continue following my death."
+
