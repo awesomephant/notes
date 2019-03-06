@@ -74,4 +74,3 @@ Pina Bausch (1978): *Cafe Muller*
 In *Empy Words* (in the 1970s), Cage explores non-syntactical *demilitarised* language.
 
 On Kawara on Twitter.
-
