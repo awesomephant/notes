@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Godzilla is Dead and We Have Killed Him: The Aesthetics of Destruction"
+title: "‘Ideas are One Thing, and What Happens is Another’: Conceptual Materiality after John Cage"
 date: 2019-02-26 16:30:00
 teacher: "Ken Hollings"
 unit: 'CHS'
-abstract: ""
+abstract: "The practical and simple advice given by John Cage to composers and performers is of tremendous use to communication practitioners concerned with structure and intent. In this transmission we will examine it with regard to the development of strategies for environments, installations, events and interventions. What can lessons can be learned from thinking in time-based terms? What separates the concept from the realization – the intention from what actually happens?"
 website: ""
 thumb: ""
 ---
+
+## Reading
+
+- [Hidden Harmonies in John Cage's Empty Words](http://jacket2.org/article/hidden-harmonies-john-cages-empty-words), Dawn Akemi Sueoka, Jacket 2 
+- [An Interview with Marcel Duchamp](http://www.studiointernational.com/index.php/an-interview-with-marcel-duchamp), Dore Ashton, Studio International, June 1966
 
 John Cage: Giving up control over our experience. 
 
