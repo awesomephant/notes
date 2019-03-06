@@ -5,17 +5,15 @@
 
 .site-header {
     padding: 1rem;
-    text-align: center;
 }
-
 .fuzzy-search {
     display: block;
     width: 100%;
-    margin: 0 auto;
     max-width: 35em;
-    border: 1px solid $black;
     font-size: 1.2rem;
+    margin-left: 1rem;
     padding: 1rem;
+    border: 0;
     margin-bottom: 1.5rem;
     &:focus {
         box-shadow: none;
